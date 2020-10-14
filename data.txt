@@ -1,0 +1,9457 @@
+
+ ************** initial deck of cards before shuffle ************** 
+
+KC QC JC 10C 9C 8C 7C 6C 5C 4C 3C 2C AC KD QD JD 10D 9D 8D 7D 6D 5D 4D 3D 2D AD KH QH JH 10H 9H 8H 7H 6H 5H 4H 3H 2H AH KS QS JS 10S 9S 8S 7S 6S 5S 4S 3S 2S AS 
+
+ ************** after shuffle ************** 
+
+AC QC 4C 3S KC QH 3H 8H 10H 7S 8D 6S 7H QS 3D AS KH JS 4S 9D 5C 5S 4D 5H 9H 6C 7C 2C 8C 9C JC 5D 10S 4H 2S KS AD 10C 9S 10D AH 2H QD KD 2D JD JH 7D 6D 8S 3C 6H 
+
+Cards for Player 1
+6D  2D  AH  AD  10S  8C  9H  5C  KH  7H  10H  KC  AC  
+
+Cards for Player 2
+6H  7D  KD  10D  KS  5D  2C  5H  9D  AS  6S  8H  3S  
+
+Cards for Player 3
+3C  JH  QD  9S  2S  JC  7C  4D  4S  3D  8D  3H  4C  
+
+Cards for Player 4
+8S  JD  2H  10C  4H  9C  6C  5S  JS  QS  7S  QH  QC  
+
+Hand 1
+6D 2D AH AD 10S 8C 9H 5C KH 7H 10H KC AC 
+Hand 2
+6H 7D KD 10D KS 5D 2C 5H 9D AS 6S 8H 3S 
+Hand 3
+3C JH QD 9S 2S JC 7C 4D 4S 3D 8D 3H 4C 
+Hand 4
+8S JD 2H 10C 4H 9C 6C 5S JS QS 7S QH QC 
+
+
+Table 1
+6D
+
+Table 2
+6H
+
+Table 3
+3C
+
+Table 4
+8S
+
+
+
+Hand 1
+2D AH AD 10S 8C 9H 5C KH 7H 10H KC AC 
+Hand 2
+7D KD 10D KS 5D 2C 5H 9D AS 6S 8H 3S 
+Hand 3
+QD 4D JC 3C JH 4S 7C 3H 6H 2S 8S 4C 6D 8D 9S 3D 
+Hand 4
+JD 2H 10C 4H 9C 6C 5S JS QS 7S QH QC 
+
+
+Table 1
+2D
+
+Table 2
+7D
+
+Table 3
+QD
+
+Table 4
+JD
+
+
+
+Hand 1
+KC AH 7H 9H AD QD 2D 5C JD 8C KH 10H AC 7D 10S 
+Hand 2
+KD 10D KS 5D 2C 5H 9D AS 6S 8H 3S 
+Hand 3
+4D JC 3C JH 4S 7C 3H 6H 2S 8S 4C 6D 8D 9S 3D 
+Hand 4
+2H 10C 4H 9C 6C 5S JS QS 7S QH QC 
+
+
+Table 1
+KC
+
+Table 2
+KD
+
+Table 3
+4D
+
+Table 4
+2H
+
+
+
+Hand 1
+AH 7H 9H AD QD 2D 5C JD 8C KH 10H AC 7D 10S 
+Hand 2
+10D KS 5D 2C 5H 9D AS 6S 8H 3S 
+Hand 3
+JC 3C JH 4S 7C 3H 6H 2S 8S 4C 6D 8D 9S 3D 
+Hand 4
+2H QC 9C QS 4D QH 7S KC 6C 4H 10C JS 5S KD 
+
+
+Table 1
+AH
+
+Table 2
+10D
+
+Table 3
+JC
+
+Table 4
+2H
+
+
+
+Hand 1
+KH 9H 2H 2D AH 10H 10S 7H AC 8C 5C AD 10D JD 7D QD JC 
+Hand 2
+KS 5D 2C 5H 9D AS 6S 8H 3S 
+Hand 3
+3C JH 4S 7C 3H 6H 2S 8S 4C 6D 8D 9S 3D 
+Hand 4
+QC 9C QS 4D QH 7S KC 6C 4H 10C JS 5S KD 
+
+
+Table 1
+KH
+
+Table 2
+KS
+
+Table 3
+3C
+
+Table 4
+QC
+
+
+
+Hand 1
+9H 2H 2D AH 10H 10S 7H AC 8C 5C AD 10D JD 7D QD JC 
+Hand 2
+5D 2C 5H 9D AS 6S 8H 3S 
+Hand 3
+3D KH 6D 8D KS 4C 6H 8S 7C JH 2S 3C QC 9S 4S 3H 
+Hand 4
+9C QS 4D QH 7S KC 6C 4H 10C JS 5S KD 
+
+
+Table 1
+9H
+
+Table 2
+5D
+
+Table 3
+3D
+
+Table 4
+9C
+
+
+
+Hand 1
+2H 2D AH 10H 10S 7H AC 8C 5C AD 10D JD 7D QD JC 
+Hand 2
+2C 5H 9D AS 6S 8H 3S 
+Hand 3
+KH 2S 8D KS 4C 8S 7C 9H 6H 6D QC 3H 3C 9C 9S 5D JH 4S 3D 
+Hand 4
+QS 4D QH 7S KC 6C 4H 10C JS 5S KD 
+
+
+Table 1
+2H
+
+Table 2
+2C
+
+Table 3
+KH
+
+Table 4
+QS
+
+
+
+Hand 1
+2D AH 10H 10S 7H AC 8C 5C AD 10D JD 7D QD JC 
+Hand 2
+5H 9D AS 6S 8H 3S 
+Hand 3
+2S 8D KS 4C 8S 7C 9H 6H 6D QC 3H 3C 9C 9S 5D JH 4S 3D 
+Hand 4
+4D QH 7S KC 6C 4H 10C JS 5S KD 
+
+
+Table 1
+2D AH 2H
+
+Table 2
+5H 9D 2C
+
+Table 3
+KH
+
+Table 4
+QS
+
+
+
+Hand 1
+10H 10S 7H AC 8C 5C AD 10D JD 7D QD JC 
+Hand 2
+AS 6S 8H 3S 
+Hand 3
+2S 8D KS 4C 8S 7C 9H 6H 6D QC 3H 3C 9C 9S 5D JH 4S 3D 
+Hand 4
+4D QH 7S KC 6C 4H 10C JS 5S KD 
+
+
+Hand 1
+AD 5C KH JD 9D AH 2C AC 5H QD QS 7D 8C 10D 10S 2D JC 7H 2H 10H 
+Hand 2
+AS 6S 8H 3S 
+Hand 3
+2S 8D KS 4C 8S 7C 9H 6H 6D QC 3H 3C 9C 9S 5D JH 4S 3D 
+Hand 4
+4D QH 7S KC 6C 4H 10C JS 5S KD 
+
+
+Table 1
+AD
+
+Table 2
+AS
+
+Table 3
+2S
+
+Table 4
+4D
+
+
+
+Hand 1
+5C KH JD 9D AH 2C AC 5H QD QS 7D 8C 10D 10S 2D JC 7H 2H 10H 
+Hand 2
+6S 8H 3S 
+Hand 3
+8D KS 4C 8S 7C 9H 6H 6D QC 3H 3C 9C 9S 5D JH 4S 3D 
+Hand 4
+QH 7S KC 6C 4H 10C JS 5S KD 
+
+
+Table 1
+5C KH AD
+
+Table 2
+6S 8H AS
+
+Table 3
+2S
+
+Table 4
+4D
+
+
+
+Hand 1
+JD 9D AH 2C AC 5H QD QS 7D 8C 10D 10S 2D JC 7H 2H 10H 
+Hand 2
+3S 
+Hand 3
+8D KS 4C 8S 7C 9H 6H 6D QC 3H 3C 9C 9S 5D JH 4S 3D 
+Hand 4
+QH 7S KC 6C 4H 10C JS 5S KD 
+
+
+Hand 1
+JD 9D AH 2C AC 5H QD QS 7D 8C 10D 10S 2D JC 7H 2H 10H 
+Hand 2
+KH 2S 4D AD 5C 8H 6S AS 3S 
+Hand 3
+8D KS 4C 8S 7C 9H 6H 6D QC 3H 3C 9C 9S 5D JH 4S 3D 
+Hand 4
+QH 7S KC 6C 4H 10C JS 5S KD 
+
+
+Table 1
+JD
+
+Table 2
+KH
+
+Table 3
+8D
+
+Table 4
+QH
+
+
+
+Hand 1
+9D AH 2C AC 5H QD QS 7D 8C 10D 10S 2D JC 7H 2H 10H 
+Hand 2
+2S 4D AD 5C 8H 6S AS 3S 
+Hand 3
+JD 8S KH 8D 9S QC 3H 9H QH 3C 7C 6D 9C KS 6H 3D 5D JH 4C 4S 
+Hand 4
+7S KC 6C 4H 10C JS 5S KD 
+
+
+Table 1
+9D
+
+Table 2
+2S
+
+Table 3
+JD
+
+Table 4
+7S
+
+
+
+Hand 1
+AH 2C AC 5H QD QS 7D 8C 10D 10S 2D JC 7H 2H 10H 
+Hand 2
+JD AD 5C 6S 4D 8H 7S 9D AS 2S 3S 
+Hand 3
+8S KH 8D 9S QC 3H 9H QH 3C 7C 6D 9C KS 6H 3D 5D JH 4C 4S 
+Hand 4
+KC 6C 4H 10C JS 5S KD 
+
+
+Table 1
+AH
+
+Table 2
+JD
+
+Table 3
+8S
+
+Table 4
+KC
+
+
+
+Hand 1
+2H QS 10S 8S JD 7D 2C 8C 10H 2D 7H AC 10D KC JC QD 5H AH 
+Hand 2
+AD 5C 6S 4D 8H 7S 9D AS 2S 3S 
+Hand 3
+KH 8D 9S QC 3H 9H QH 3C 7C 6D 9C KS 6H 3D 5D JH 4C 4S 
+Hand 4
+6C 4H 10C JS 5S KD 
+
+
+Table 1
+2H
+
+Table 2
+AD
+
+Table 3
+KH
+
+Table 4
+6C
+
+
+
+Hand 1
+QS 10S 8S JD 7D 2C 8C 10H 2D 7H AC 10D KC JC QD 5H AH 
+Hand 2
+KH AD 6S 6C 5C 7S 9D AS 8H 2S 3S 4D 2H 
+Hand 3
+8D 9S QC 3H 9H QH 3C 7C 6D 9C KS 6H 3D 5D JH 4C 4S 
+Hand 4
+4H 10C JS 5S KD 
+
+
+Table 1
+QS
+
+Table 2
+KH
+
+Table 3
+8D
+
+Table 4
+4H
+
+
+
+Hand 1
+10S 8S JD 7D 2C 8C 10H 2D 7H AC 10D KC JC QD 5H AH 
+Hand 2
+AD 6S 6C 5C 7S 9D AS 8H 2S 3S 4D 2H 
+Hand 3
+9S QC 3H 9H QH 3C 7C 6D 9C KS 6H 3D 5D JH 4C 4S 
+Hand 4
+KD 10C JS 8D 5S KH 4H QS 
+
+
+Table 1
+10S
+
+Table 2
+AD
+
+Table 3
+9S
+
+Table 4
+KD
+
+
+
+Hand 1
+8S JD 7D 2C 8C 10H 2D 7H AC 10D KC JC QD 5H AH 
+Hand 2
+4D 2H 10S AD AS 9S 2S 7S 6C 8H 5C 9D 6S KD 3S 
+Hand 3
+QC 3H 9H QH 3C 7C 6D 9C KS 6H 3D 5D JH 4C 4S 
+Hand 4
+10C JS 8D 5S KH 4H QS 
+
+
+Table 1
+8S
+
+Table 2
+4D
+
+Table 3
+QC
+
+Table 4
+10C
+
+
+
+Hand 1
+JD 7D 2C 8C 10H 2D 7H AC 10D KC JC QD 5H AH 
+Hand 2
+6C 2H KD 10S 4D QC AD 3S 2S 8H 5C 10C 8S 7S 9D 9S AS 6S 
+Hand 3
+3H 9H QH 3C 7C 6D 9C KS 6H 3D 5D JH 4C 4S 
+Hand 4
+JS 8D 5S KH 4H QS 
+
+
+Table 1
+JD
+
+Table 2
+6C
+
+Table 3
+3H
+
+Table 4
+JS
+
+
+
+Hand 1
+7D 2C 8C 10H 2D 7H AC 10D KC JC QD 5H AH 
+Hand 2
+2H KD 10S 4D QC AD 3S 2S 8H 5C 10C 8S 7S 9D 9S AS 6S 
+Hand 3
+4S 3D 3C 6C JD 3H 6D 9H 4C 5D 6H JS QH JH 7C 9C KS 
+Hand 4
+8D 5S KH 4H QS 
+
+
+Table 1
+7D
+
+Table 2
+2H
+
+Table 3
+4S
+
+Table 4
+8D
+
+
+
+Hand 1
+2C 8C 10H 2D 7H AC 10D KC JC QD 5H AH 
+Hand 2
+AD 8H 10S KD 7D 10C 8S AS 5C 8D 7S 4D 2H 9S 4S 9D 6S 2S 3S QC 
+Hand 3
+3D 3C 6C JD 3H 6D 9H 4C 5D 6H JS QH JH 7C 9C KS 
+Hand 4
+5S KH 4H QS 
+
+
+Table 1
+2C
+
+Table 2
+AD
+
+Table 3
+3D
+
+Table 4
+5S
+
+
+
+Hand 1
+8C 10H 2D 7H AC 10D KC JC QD 5H AH 
+Hand 2
+7D 2H 5C 5S QC 8S AS 2C 4D 8H 10C 6S KD AD 9S 7S 10S 8D 4S 3S 2S 3D 9D 
+Hand 3
+3C 6C JD 3H 6D 9H 4C 5D 6H JS QH JH 7C 9C KS 
+Hand 4
+KH 4H QS 
+
+
+Table 1
+8C
+
+Table 2
+7D
+
+Table 3
+3C
+
+Table 4
+KH
+
+
+
+Hand 1
+10H 2D 7H AC 10D KC JC QD 5H AH 
+Hand 2
+2H 5C 5S QC 8S AS 2C 4D 8H 10C 6S KD AD 9S 7S 10S 8D 4S 3S 2S 3D 9D 
+Hand 3
+9H 8C JH 4C 7D 3H 6H 9C KH 5D 6C 7C KS JD 6D JS 3C QH 
+Hand 4
+4H QS 
+
+
+Table 1
+10H
+
+Table 2
+2H
+
+Table 3
+9H
+
+Table 4
+4H
+
+
+
+Hand 1
+2D 7H AC 10D KC JC QD 5H AH 
+Hand 2
+7S KD 9H 8S 3S 10H 10S 9S 5S 10C 9D 8H AS AD 8D 2H 2S 5C 6S 4D 2C 4S QC 4H 3D 
+Hand 3
+8C JH 4C 7D 3H 6H 9C KH 5D 6C 7C KS JD 6D JS 3C QH 
+Hand 4
+QS 
+
+
+Table 1
+2D
+
+Table 2
+7S
+
+Table 3
+8C
+
+Table 4
+  
+
+
+Hand 1
+7S 7H JC QD 8C 5H KC AC AH QS 10D 2D 
+Hand 2
+KD 9H 8S 3S 10H 10S 9S 5S 10C 9D 8H AS AD 8D 2H 2S 5C 6S 4D 2C 4S QC 4H 3D 
+Hand 3
+JH 4C 7D 3H 6H 9C KH 5D 6C 7C KS JD 6D JS 3C QH 
+Hand 4
+
+
+
+Table 1
+7S
+
+Table 2
+KD
+
+Table 3
+JH
+
+Table 4
+  
+
+
+Hand 1
+QD 7H 7S JH AC QS 8C JC 10D 5H 2D KD KC AH 
+Hand 2
+9H 8S 3S 10H 10S 9S 5S 10C 9D 8H AS AD 8D 2H 2S 5C 6S 4D 2C 4S QC 4H 3D 
+Hand 3
+4C 7D 3H 6H 9C KH 5D 6C 7C KS JD 6D JS 3C QH 
+Hand 4
+
+
+
+Table 1
+QD
+
+Table 2
+9H
+
+Table 3
+4C
+
+Table 4
+  
+
+
+Hand 1
+7H 7S JH AC QS 8C JC 10D 5H 2D KD KC AH 
+Hand 2
+8S 3S 10H 10S 9S 5S 10C 9D 8H AS AD 8D 2H 2S 5C 6S 4D 2C 4S QC 4H 3D 
+Hand 3
+JD QH 5D 3H 3C 6C 6H 6D 7C 9C KS 7D 4C QD 9H JS KH 
+Hand 4
+
+
+
+Table 1
+7H
+
+Table 2
+8S
+
+Table 3
+JD
+
+Table 4
+  
+
+
+Hand 1
+JH QS KC 5H AC 2D 8S 7S 8C 7H 10D KD AH JD JC 
+Hand 2
+3S 10H 10S 9S 5S 10C 9D 8H AS AD 8D 2H 2S 5C 6S 4D 2C 4S QC 4H 3D 
+Hand 3
+QH 5D 3H 3C 6C 6H 6D 7C 9C KS 7D 4C QD 9H JS KH 
+Hand 4
+
+
+
+Table 1
+JH
+
+Table 2
+3S
+
+Table 3
+QH
+
+Table 4
+  
+
+
+Hand 1
+QS KC 5H AC 2D 8S 7S 8C 7H 10D KD AH JD JC 
+Hand 2
+2H 8D 9S 10C 10H QH 10S 5S QC AS 6S JH 4H 5C 3D 2S AD 9D 2C 4D 3S 4S 8H 
+Hand 3
+5D 3H 3C 6C 6H 6D 7C 9C KS 7D 4C QD 9H JS KH 
+Hand 4
+
+
+
+Table 1
+QS
+
+Table 2
+2H
+
+Table 3
+5D
+
+Table 4
+  
+
+
+Hand 1
+KC 5H AC 2D 8S 7S 8C 7H 10D KD AH JD JC 
+Hand 2
+QS QH 9S 8D 2C 4D 3S 10S 5S 10C 10H 2S 6S JH 9D 3D 4S 5C 5D QC 2H 8H 4H AD AS 
+Hand 3
+3H 3C 6C 6H 6D 7C 9C KS 7D 4C QD 9H JS KH 
+Hand 4
+
+
+
+Table 1
+KC
+
+Table 2
+QS
+
+Table 3
+3H
+
+Table 4
+  
+
+
+Hand 1
+5H AC 2D 8S 7S 8C 7H 10D KD AH JD JC 
+Hand 2
+QH 9S 8D 2C 4D 3S 10S 5S 10C 10H 2S 6S JH 9D 3D 4S 5C 5D QC 2H 8H 4H AD AS 
+Hand 3
+7C KC 6H 9C 6D 6C 3H QD KH 3C 7D JS KS QS 4C 9H 
+Hand 4
+
+
+
+Table 1
+5H
+
+Table 2
+QH
+
+Table 3
+7C
+
+Table 4
+  
+
+
+Hand 1
+QH 5H AH 7H AC JD 8C 10D JC 2D 7S KD 8S 7C 
+Hand 2
+9S 8D 2C 4D 3S 10S 5S 10C 10H 2S 6S JH 9D 3D 4S 5C 5D QC 2H 8H 4H AD AS 
+Hand 3
+KC 6H 9C 6D 6C 3H QD KH 3C 7D JS KS QS 4C 9H 
+Hand 4
+
+
+
+Table 1
+QH
+
+Table 2
+9S
+
+Table 3
+KC
+
+Table 4
+  
+
+
+Hand 1
+5H AH 7H AC JD 8C 10D JC 2D 7S KD 8S 7C 
+Hand 2
+2C 3D 5S 10S AS QH AD 4H 8H 2H 4S 4D 8D KC 6S 10C 10H QC 3S 2S 9S 9D 5C 5D JH 
+Hand 3
+6H 9C 6D 6C 3H QD KH 3C 7D JS KS QS 4C 9H 
+Hand 4
+
+
+
+Table 1
+5H
+
+Table 2
+2C
+
+Table 3
+6H
+
+Table 4
+  
+
+
+Hand 1
+AH 7H AC JD 8C 10D JC 2D 7S KD 8S 7C 
+Hand 2
+3D 5H 4H 10C 5C 4D QH JH QC 9D 6S KC 8D AD AS 6H 3S 4S 5S 2H 10S 9S 2C 10H 8H 5D 2S 
+Hand 3
+9C 6D 6C 3H QD KH 3C 7D JS KS QS 4C 9H 
+Hand 4
+
+
+
+Table 1
+AH
+
+Table 2
+3D
+
+Table 3
+9C
+
+Table 4
+  
+
+
+Hand 1
+7C KD AC 2D 8C 10D 8S JC 7H 9C AH 7S 3D JD 
+Hand 2
+5H 4H 10C 5C 4D QH JH QC 9D 6S KC 8D AD AS 6H 3S 4S 5S 2H 10S 9S 2C 10H 8H 5D 2S 
+Hand 3
+6D 6C 3H QD KH 3C 7D JS KS QS 4C 9H 
+Hand 4
+
+
+
+Table 1
+7C
+
+Table 2
+5H
+
+Table 3
+6D
+
+Table 4
+  
+
+
+Hand 1
+KD AC 2D 8C 10D 8S JC 7H 9C AH 7S 3D JD 
+Hand 2
+2C 9D 3S 9S 4D 10C 10S 2S AD AS QH 8H KC 6D 7C QC 4S 4H 6S 5C 5H 6H 2H 10H 5D 8D JH 5S 
+Hand 3
+6C 3H QD KH 3C 7D JS KS QS 4C 9H 
+Hand 4
+
+
+
+Table 1
+KD
+
+Table 2
+2C
+
+Table 3
+6C
+
+Table 4
+  
+
+
+Hand 1
+AC 2D 8C 10D 8S JC 7H 9C AH 7S 3D JD 
+Hand 2
+5C 7C 2C 6H 10S AS KD 9D 5S 8D 3S KC AD 6D 6C JH 4S 10H 4H QC QH 2H 2S 8H 9S 5D 10C 4D 5H 6S 
+Hand 3
+3H QD KH 3C 7D JS KS QS 4C 9H 
+Hand 4
+
+
+
+Table 1
+AC
+
+Table 2
+5C
+
+Table 3
+3H
+
+Table 4
+  
+
+
+Hand 1
+AC AH JD JC 5C 10D 2D 3D 7S 7H 8S 9C 3H 8C 
+Hand 2
+7C 2C 6H 10S AS KD 9D 5S 8D 3S KC AD 6D 6C JH 4S 10H 4H QC QH 2H 2S 8H 9S 5D 10C 4D 5H 6S 
+Hand 3
+QD KH 3C 7D JS KS QS 4C 9H 
+Hand 4
+
+
+
+Table 1
+AC
+
+Table 2
+7C
+
+Table 3
+QD
+
+Table 4
+  
+
+
+Hand 1
+3D 7H 3H AH JD 8S QD AC 9C 7C 7S JC 8C 10D 5C 2D 
+Hand 2
+2C 6H 10S AS KD 9D 5S 8D 3S KC AD 6D 6C JH 4S 10H 4H QC QH 2H 2S 8H 9S 5D 10C 4D 5H 6S 
+Hand 3
+KH 3C 7D JS KS QS 4C 9H 
+Hand 4
+
+
+
+Table 1
+3D
+
+Table 2
+2C
+
+Table 3
+KH
+
+Table 4
+  
+
+
+Hand 1
+7H 3H AH JD 8S QD AC 9C 7C 7S JC 8C 10D 5C 2D 
+Hand 2
+4S 8H 2C 3D 10S 9S QH 8D JH 6S AS 5S AD 5D QC 6H 6D 9D KC 10H 4D 2S 10C KD KH 6C 5H 3S 2H 4H 
+Hand 3
+3C 7D JS KS QS 4C 9H 
+Hand 4
+
+
+
+Table 1
+7H
+
+Table 2
+4S
+
+Table 3
+3C
+
+Table 4
+  
+
+
+Hand 1
+3H AH JD 8S QD AC 9C 7C 7S JC 8C 10D 5C 2D 
+Hand 2
+8H 2C 3D 10S 9S QH 8D JH 6S AS 5S AD 5D QC 6H 6D 9D KC 10H 4D 2S 10C KD KH 6C 5H 3S 2H 4H 
+Hand 3
+3C 7H 4C 9H KS 4S 7D QS JS 
+Hand 4
+
+
+
+Table 1
+3H
+
+Table 2
+8H
+
+Table 3
+3C
+
+Table 4
+  
+
+
+Hand 1
+AH JD 8S QD AC 9C 7C 7S JC 8C 10D 5C 2D 
+Hand 2
+2C 3D 10S 9S QH 8D JH 6S AS 5S AD 5D QC 6H 6D 9D KC 10H 4D 2S 10C KD KH 6C 5H 3S 2H 4H 
+Hand 3
+7H 4C 9H KS 4S 7D QS JS 
+Hand 4
+
+
+
+Table 1
+AH JD 3H
+
+Table 2
+8H
+
+Table 3
+7H 4C 3C
+
+Hand 4
+8S QD AC 9C 7C 7S JC 8C 10D 5C 2D 
+
+
+Hand 1
+2C 3D 10S 9S QH 8D JH 6S AS 5S AD 5D QC 6H 6D 9D KC 10H 4D 2S 10C KD KH 6C 5H 3S 2H 4H 
+Hand 2
+9H KS 4S 7D QS JS 
+Hand 3
+
+Hand 1
+8S QD AC 9C 7C 7S JC 8C 10D 5C 2D 
+Hand 2
+2C 3D 10S 9S QH 8D JH 6S AS 5S AD 5D QC 6H 6D 9D KC 10H 4D 2S 10C KD KH 6C 5H 3S 2H 4H 
+Hand 3
+AH 7H QS JS JD 4S 7D 4C KS 8H 3H 9H 3C 
+Hand 4
+
+
+
+Table 1
+8S
+
+Table 2
+2C
+
+Table 3
+AH
+
+Table 4
+  
+
+
+Hand 1
+QD AC 9C 7C 7S JC 8C 10D 5C 2D 
+Hand 2
+3D 10S 9S QH 8D JH 6S AS 5S AD 5D QC 6H 6D 9D KC 10H 4D 2S 10C KD KH 6C 5H 3S 2H 4H 
+Hand 3
+AH 4S 3H KS 7H 8S 4C 9H 7D 2C QS JD 8H 3C JS 
+Hand 4
+
+
+
+Table 1
+QD
+
+Table 2
+3D
+
+Table 3
+AH
+
+Table 4
+  
+
+
+Hand 1
+AC 9C 7C 7S JC 8C 10D 5C 2D 
+Hand 2
+10S 9S QH 8D JH 6S AS 5S AD 5D QC 6H 6D 9D KC 10H 4D 2S 10C KD KH 6C 5H 3S 2H 4H 
+Hand 3
+AH KS 7D 3H 7H 3C QD QS 8S 4S 9H 3D 2C 8H 4C JS JD 
+Hand 4
+
+
+
+Table 1
+AC
+
+Table 2
+10S
+
+Table 3
+AH
+
+Table 4
+  
+
+
+Hand 1
+9C 7C 7S JC 8C 10D 5C 2D 
+Hand 2
+9S QH 8D JH 6S AS 5S AD 5D QC 6H 6D 9D KC 10H 4D 2S 10C KD KH 6C 5H 3S 2H 4H 
+Hand 3
+KS 7D 3H 7H 3C QD QS 8S 4S 9H 3D 2C 8H 4C JS JD 
+Hand 4
+
+
+
+Table 1
+9C 7C AC
+
+Table 2
+10S
+
+Table 3
+KS 7D AH
+
+Hand 4
+7S JC 8C 10D 5C 2D 
+
+
+Hand 1
+9S QH 8D JH 6S AS 5S AD 5D QC 6H 6D 9D KC 10H 4D 2S 10C KD KH 6C 5H 3S 2H 4H 
+Hand 2
+3H 7H 3C QD QS 8S 4S 9H 3D 2C 8H 4C JS JD 
+Hand 3
+
+Hand 1
+7S JC 8C 10D 5C 2D 
+Hand 2
+9S QH 8D JH 6S AS 5S AD 5D QC 6H 6D 9D KC 10H 4D 2S 10C KD KH 6C 5H 3S 2H 4H 
+Hand 3
+8S 9H 3H 7C 4C JD 8H 10S AC JS 7D 2C 3D QD KS 4S 3C 9C AH 7H QS 
+Hand 4
+
+
+
+Table 1
+7S
+
+Table 2
+9S
+
+Table 3
+8S
+
+Table 4
+  
+
+
+Hand 1
+8S 10D JC 2D 8C 7S 9S 5C 
+Hand 2
+QH 8D JH 6S AS 5S AD 5D QC 6H 6D 9D KC 10H 4D 2S 10C KD KH 6C 5H 3S 2H 4H 
+Hand 3
+9H 3H 7C 4C JD 8H 10S AC JS 7D 2C 3D QD KS 4S 3C 9C AH 7H QS 
+Hand 4
+
+
+
+Table 1
+8S
+
+Table 2
+QH
+
+Table 3
+9H
+
+Table 4
+  
+
+
+Hand 1
+2D 8S 7S 10D JC 9H 5C 8C 9S QH 
+Hand 2
+8D JH 6S AS 5S AD 5D QC 6H 6D 9D KC 10H 4D 2S 10C KD KH 6C 5H 3S 2H 4H 
+Hand 3
+3H 7C 4C JD 8H 10S AC JS 7D 2C 3D QD KS 4S 3C 9C AH 7H QS 
+Hand 4
+
+
+
+Table 1
+2D
+
+Table 2
+8D
+
+Table 3
+3H
+
+Table 4
+  
+
+
+Hand 1
+QH 10D 2D 9S 8D JC 7S 3H 5C 8S 8C 9H 
+Hand 2
+JH 6S AS 5S AD 5D QC 6H 6D 9D KC 10H 4D 2S 10C KD KH 6C 5H 3S 2H 4H 
+Hand 3
+7C 4C JD 8H 10S AC JS 7D 2C 3D QD KS 4S 3C 9C AH 7H QS 
+Hand 4
+
+
+
+Table 1
+QH
+
+Table 2
+JH
+
+Table 3
+7C
+
+Table 4
+  
+
+
+Hand 1
+10D 2D 9S 8D JC 7S 3H 5C 8S 8C 9H 
+Hand 2
+6S AS 5S AD 5D QC 6H 6D 9D KC 10H 4D 2S 10C KD KH 6C 5H 3S 2H 4H 
+Hand 3
+2C 10S 3C AH 4S QD QS 9C JS 7C KS 4C JD 8H AC JH 7D QH 7H 3D 
+Hand 4
+
+
+
+Table 1
+10D
+
+Table 2
+6S
+
+Table 3
+2C
+
+Table 4
+  
+
+
+Hand 1
+2D 9S 8D JC 7S 3H 5C 8S 8C 9H 
+Hand 2
+AS 5S AD 5D QC 6H 6D 9D KC 10H 4D 2S 10C KD KH 6C 5H 3S 2H 4H 
+Hand 3
+QH AH 7C 10D 7D AC 8H 3C KS QS JH JS JD 7H 3D 9C 4C 6S 2C QD 4S 10S 
+Hand 4
+
+
+
+Table 1
+2D
+
+Table 2
+AS
+
+Table 3
+QH
+
+Table 4
+  
+
+
+Hand 1
+9S 8D JC 7S 3H 5C 8S 8C 9H 
+Hand 2
+10C QC 10H 5H AS KD 6H 4D KH 2D 9D 6C 4H 3S 5D 2H QH KC 2S AD 6D 5S 
+Hand 3
+AH 7C 10D 7D AC 8H 3C KS QS JH JS JD 7H 3D 9C 4C 6S 2C QD 4S 10S 
+Hand 4
+
+
+
+Table 1
+9S
+
+Table 2
+10C
+
+Table 3
+AH
+
+Table 4
+  
+
+
+Hand 1
+8D JC 7S 3H 5C 8S 8C 9H 
+Hand 2
+QC 10H 5H AS KD 6H 4D KH 2D 9D 6C 4H 3S 5D 2H QH KC 2S AD 6D 5S 
+Hand 3
+KS 6S 7H 3C QD 2C JH 7D 8H AC JD JS QS 10S 4S 10D AH 9S 3D 9C 10C 4C 7C 
+Hand 4
+
+
+
+Table 1
+8D
+
+Table 2
+QC
+
+Table 3
+KS
+
+Table 4
+  
+
+
+Hand 1
+JC 8S 5C 9H 8C KS 8D QC 7S 3H 
+Hand 2
+10H 5H AS KD 6H 4D KH 2D 9D 6C 4H 3S 5D 2H QH KC 2S AD 6D 5S 
+Hand 3
+6S 7H 3C QD 2C JH 7D 8H AC JD JS QS 10S 4S 10D AH 9S 3D 9C 10C 4C 7C 
+Hand 4
+
+
+
+Table 1
+JC
+
+Table 2
+10H
+
+Table 3
+6S
+
+Table 4
+  
+
+
+Hand 1
+8S 5C 9H 8C KS 8D QC 7S 3H 
+Hand 2
+5H AS KD 6H 4D KH 2D 9D 6C 4H 3S 5D 2H QH KC 2S AD 6D 5S 
+Hand 3
+QS JC 4S AH 10C 10H 2C 7H 9S QD 10S JS 8H 4C 7D 7C AC 3C 9C JD JH 10D 3D 6S 
+Hand 4
+
+
+
+Table 1
+8S
+
+Table 2
+5H
+
+Table 3
+QS
+
+Table 4
+  
+
+
+Hand 1
+5C 9H 8C KS 8D QC 7S 3H 
+Hand 2
+AD 2D KH 8S 5S KC 6H AS 6C 5H 2H 2S 5D QS 3S QH KD 4H 6D 4D 9D 
+Hand 3
+JC 4S AH 10C 10H 2C 7H 9S QD 10S JS 8H 4C 7D 7C AC 3C 9C JD JH 10D 3D 6S 
+Hand 4
+
+
+
+Table 1
+5C
+
+Table 2
+AD
+
+Table 3
+JC
+
+Table 4
+  
+
+
+Hand 1
+9H 8C KS 8D QC 7S 3H 
+Hand 2
+4D 9D JC QH QS 2D AD KH KC 6H 2H KD 6C 5D 2S 6D 3S 8S AS 4H 5H 5S 5C 
+Hand 3
+4S AH 10C 10H 2C 7H 9S QD 10S JS 8H 4C 7D 7C AC 3C 9C JD JH 10D 3D 6S 
+Hand 4
+
+
+
+Table 1
+9H
+
+Table 2
+4D
+
+Table 3
+4S
+
+Table 4
+  
+
+
+Hand 1
+8C KS 8D QC 7S 3H 
+Hand 2
+9D JC QH QS 2D AD KH KC 6H 2H KD 6C 5D 2S 6D 3S 8S AS 4H 5H 5S 5C 
+Hand 3
+AH 10C 10H 2C 7H 9S QD 10S JS 8H 4C 7D 7C AC 3C 9C JD JH 10D 3D 6S 
+Hand 4
+
+
+
+Table 1
+9H
+
+Table 2
+9D JC 4D
+
+Table 3
+AH 10C 4S
+
+Hand 4
+8C KS 8D QC 7S 3H 
+
+
+Hand 1
+QH QS 2D AD KH KC 6H 2H KD 6C 5D 2S 6D 3S 8S AS 4H 5H 5S 5C 
+Hand 2
+10H 2C 7H 9S QD 10S JS 8H 4C 7D 7C AC 3C 9C JD JH 10D 3D 6S 
+Hand 3
+
+Hand 1
+8C KS 8D QC 7S 3H 
+Hand 2
+QH QS 2D AD KH KC 6H 2H KD 6C 5D 2S 6D 3S 8S AS 4H 5H 5S 5C 
+Hand 3
+9D 6S 8H 2C 7D 4D 10C 3C 10S JS 9S 9C QD 7C 10H 4S 7H 10D AH JD 4C AC JC 3D JH 9H 
+Hand 4
+
+
+
+Table 1
+8C
+
+Table 2
+QH
+
+Table 3
+9D
+
+Table 4
+  
+
+
+Hand 1
+7S QH 8C 3H QC 9D KS 8D 
+Hand 2
+QS 2D AD KH KC 6H 2H KD 6C 5D 2S 6D 3S 8S AS 4H 5H 5S 5C 
+Hand 3
+6S 8H 2C 7D 4D 10C 3C 10S JS 9S 9C QD 7C 10H 4S 7H 10D AH JD 4C AC JC 3D JH 9H 
+Hand 4
+
+
+
+Table 1
+7S
+
+Table 2
+QS
+
+Table 3
+6S
+
+Table 4
+  
+
+
+Hand 1
+QH 8C 3H QC 9D KS 8D 
+Hand 2
+2D AD KH KC 6H 2H KD 6C 5D 2S 6D 3S 8S AS 4H 5H 5S 5C 
+Hand 3
+10C 3C AH 7S 10D JC 4D 4C AC 9C JS 10H 10S 2C 9S JD QS 4S 7H 6S QD JH 7C 8H 9H 3D 7D 
+Hand 4
+
+
+
+Table 1
+QH
+
+Table 2
+2D
+
+Table 3
+10C
+
+Table 4
+  
+
+
+Hand 1
+8C 3H QC 9D KS 8D 
+Hand 2
+10C 6H AD 5D AS 4H 5S KD 2S KC 2H 5C 2D QH 6C KH 6D 8S 3S 5H 
+Hand 3
+3C AH 7S 10D JC 4D 4C AC 9C JS 10H 10S 2C 9S JD QS 4S 7H 6S QD JH 7C 8H 9H 3D 7D 
+Hand 4
+
+
+
+Table 1
+8C
+
+Table 2
+10C
+
+Table 3
+3C
+
+Table 4
+  
+
+
+Hand 1
+3H QC 9D KS 8D 
+Hand 2
+6H AD 5D AS 4H 5S KD 2S KC 2H 5C 2D QH 6C KH 6D 8S 3S 5H 
+Hand 3
+10D JH QS 8H 2C 3D 7H 7C 6S 4C 9S 10C 4D JS 8C 7D 3C JD 9C 4S 10S AC AH QD 9H 7S JC 10H 
+Hand 4
+
+
+
+Table 1
+3H
+
+Table 2
+6H
+
+Table 3
+10D
+
+Table 4
+  
+
+
+Hand 1
+KS 9D 8D 6H 10D 3H QC 
+Hand 2
+AD 5D AS 4H 5S KD 2S KC 2H 5C 2D QH 6C KH 6D 8S 3S 5H 
+Hand 3
+JH QS 8H 2C 3D 7H 7C 6S 4C 9S 10C 4D JS 8C 7D 3C JD 9C 4S 10S AC AH QD 9H 7S JC 10H 
+Hand 4
+
+
+
+Table 1
+KS
+
+Table 2
+AD
+
+Table 3
+JH
+
+Table 4
+  
+
+
+Hand 1
+9D 8D 6H 10D 3H QC 
+Hand 2
+2D 6C KH KC 5C JH AS 5S 5H AD KS 2S QH 3S 5D 2H 6D KD 4H 8S 
+Hand 3
+QS 8H 2C 3D 7H 7C 6S 4C 9S 10C 4D JS 8C 7D 3C JD 9C 4S 10S AC AH QD 9H 7S JC 10H 
+Hand 4
+
+
+
+Table 1
+9D
+
+Table 2
+2D
+
+Table 3
+QS
+
+Table 4
+  
+
+
+Hand 1
+8D 6H 10D 3H QC 
+Hand 2
+4H AS KS 5C 2S KD KH 5H JH 2H KC 2D 3S 5D 6D AD 6C 8S QS 9D QH 5S 
+Hand 3
+8H 2C 3D 7H 7C 6S 4C 9S 10C 4D JS 8C 7D 3C JD 9C 4S 10S AC AH QD 9H 7S JC 10H 
+Hand 4
+
+
+
+Table 1
+8D
+
+Table 2
+4H
+
+Table 3
+8H
+
+Table 4
+  
+
+
+Hand 1
+6H 10D 3H QC 
+Hand 2
+JH 9D QS AD KH KC 6C 6D 5H 2H 8D 5D 8H 4H KD 5C 2S AS 8S 5S QH 3S KS 2D 
+Hand 3
+2C 3D 7H 7C 6S 4C 9S 10C 4D JS 8C 7D 3C JD 9C 4S 10S AC AH QD 9H 7S JC 10H 
+Hand 4
+
+
+
+Table 1
+6H
+
+Table 2
+JH
+
+Table 3
+2C
+
+Table 4
+  
+
+
+Hand 1
+10D 3H QC 
+Hand 2
+9D QS AD KH KC 6C 6D 5H 2H 8D 5D 8H 4H KD 5C 2S AS 8S 5S QH 3S KS 2D 
+Hand 3
+9H 2C 10S 3D AH 4S 7S JS AC 4C 4D 6H 8C JD 6S QD JC JH 7D 7C 7H 3C 10H 9C 9S 10C 
+Hand 4
+
+
+
+Table 1
+10D
+
+Table 2
+9D
+
+Table 3
+9H
+
+Table 4
+  
+
+
+Hand 1
+3H QC 
+Hand 2
+QS AD KH KC 6C 6D 5H 2H 8D 5D 8H 4H KD 5C 2S AS 8S 5S QH 3S KS 2D 
+Hand 3
+2C 10S 3D AH 4S 7S JS AC 4C 4D 6H 8C JD 6S QD JC JH 7D 7C 7H 3C 10H 9C 9S 10C 
+Hand 4
+
+
+
+Table 1
+10D
+
+Table 2
+QS AD 9D
+
+Table 3
+2C 10S 9H
+
+Hand 4
+3H QC 
+
+
+Hand 1
+KH KC 6C 6D 5H 2H 8D 5D 8H 4H KD 5C 2S AS 8S 5S QH 3S KS 2D 
+Hand 2
+3D AH 4S 7S JS AC 4C 4D 6H 8C JD 6S QD JC JH 7D 7C 7H 3C 10H 9C 9S 10C 
+Hand 3
+
+Hand 1
+3H QC 
+Hand 2
+5S 5D 6D 2S 2D KD 9H 8H QH KC AD 5C KS AS 2H 8S 2C 8D 4H 5H 10S 6C KH 9D 10D 3S QS 
+Hand 3
+3D AH 4S 7S JS AC 4C 4D 6H 8C JD 6S QD JC JH 7D 7C 7H 3C 10H 9C 9S 10C 
+Hand 4
+
+
+
+Table 1
+3H
+
+Table 2
+5S
+
+Table 3
+3D
+
+Table 4
+  
+
+
+Hand 1
+QC 
+Hand 2
+5D 6D 2S 2D KD 9H 8H QH KC AD 5C KS AS 2H 8S 2C 8D 4H 5H 10S 6C KH 9D 10D 3S QS 
+Hand 3
+AH 4S 7S JS AC 4C 4D 6H 8C JD 6S QD JC JH 7D 7C 7H 3C 10H 9C 9S 10C 
+Hand 4
+
+
+
+Hand 1
+QC 
+Hand 2
+5D 6D 2S 2D KD 9H 8H QH KC AD 5C KS AS 2H 8S 2C 8D 4H 5H 10S 6C KH 9D 10D 3S QS 
+Hand 3
+6H 7D 4C 3C 9C 10C 3H 6S 3D 4D 5S 8C JD 7C JS AC JH 4S 10H QD 9S AH 7S 7H JC 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+5D
+
+Table 3
+6H
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+AS 3S KC 10S 2S 6H 5C 9H 4H 6C 10D 2D 8H 5H 2C AD QC KD 8D KH 2H 9D 5D QH 6D QS 8S KS 
+Hand 3
+7D 4C 3C 9C 10C 3H 6S 3D 4D 5S 8C JD 7C JS AC JH 4S 10H QD 9S AH 7S 7H JC 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+AS
+
+Table 3
+7D
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+QH 7D 2C 5C 9H 2D AS 4H 8H 10D KH 6H KD KS 2H 3S QS QC 10S 6C 2S KC 5D AD 8D 8S 5H 6D 9D 
+Hand 3
+4C 3C 9C 10C 3H 6S 3D 4D 5S 8C JD 7C JS AC JH 4S 10H QD 9S AH 7S 7H JC 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+QH
+
+Table 3
+4C
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+7D 2C 5C 9H 2D AS 4H 8H 10D KH 6H KD KS 2H 3S QS QC 10S 6C 2S KC 5D AD 8D 8S 5H 6D 9D 
+Hand 3
+4S QH 5S 7H 4D AH QD 10H JC AC 7C 3C 7S 3D JH 9S 6S JD 4C JS 9C 3H 10C 8C 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+7D
+
+Table 3
+4S
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+2C 5C 9H 2D AS 4H 8H 10D KH 6H KD KS 2H 3S QS QC 10S 6C 2S KC 5D AD 8D 8S 5H 6D 9D 
+Hand 3
+7H 3H AC QD 3D 7D 9S 3C 4S 10H JH JD 9C JS 7C 4D 4C QH 7S 6S 8C 5S 10C AH JC 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+2C
+
+Table 3
+7H
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+QS 5C KS 4H 6H QC 2S 3S 10D AD 8D 2D 2C 10S 8S AS KD 6C 6D KH 5D 9D 9H KC 2H 8H 5H 7H 
+Hand 3
+3H AC QD 3D 7D 9S 3C 4S 10H JH JD 9C JS 7C 4D 4C QH 7S 6S 8C 5S 10C AH JC 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+QS
+
+Table 3
+3H
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+5C KS 4H 6H QC 2S 3S 10D AD 8D 2D 2C 10S 8S AS KD 6C 6D KH 5D 9D 9H KC 2H 8H 5H 7H 
+Hand 3
+AH 6S JH 3D 3H 3C QD 10H QS 7C 9S 10C 7S 7D 4D 8C 4C 9C AC JD JC 4S QH 5S JS 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+5C
+
+Table 3
+AH
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+KS 4H 6H QC 2S 3S 10D AD 8D 2D 2C 10S 8S AS KD 6C 6D KH 5D 9D 9H KC 2H 8H 5H 7H 
+Hand 3
+AC 7S 8C 4S 10H 9C 6S 3C QS 7C JC 4D QD JD 9S QH 10C 3D 7D AH 5C 3H 4C 5S JH JS 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+KS
+
+Table 3
+AC
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+4H 6H QC 2S 3S 10D AD 8D 2D 2C 10S 8S AS KD 6C 6D KH 5D 9D 9H KC 2H 8H 5H 7H 
+Hand 3
+6S 8C QD AC 9S 3D 7D AH 5C KS JC 4C 3C QH 10H 9C 7C JS 5S 4D 10C JD QS JH 3H 4S 7S 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+4H
+
+Table 3
+6S
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+8H QC KD 6C 5H 9H 8S 10D 4H 2S AS KH 3S 8D 2D 10S 2H 6H 6D 9D 7H KC 5D AD 6S 2C 
+Hand 3
+8C QD AC 9S 3D 7D AH 5C KS JC 4C 3C QH 10H 9C 7C JS 5S 4D 10C JD QS JH 3H 4S 7S 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+8H
+
+Table 3
+8C
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+QC KD 6C 5H 9H 8S 10D 4H 2S AS KH 3S 8D 2D 10S 2H 6H 6D 9D 7H KC 5D AD 6S 2C 
+Hand 3
+QD AC 9S 3D 7D AH 5C KS JC 4C 3C QH 10H 9C 7C JS 5S 4D 10C JD QS JH 3H 4S 7S 
+Hand 4
+
+
+
+Hand 1
+
+Hand 2
+2D 6C AS AD 7H 8S 8D 8H 8C 2S 4H 5D 10S 6D KH 2H 2C KD 6H 9H 5H KC 10D 9D QC 6S 3S 
+Hand 3
+QD AC 9S 3D 7D AH 5C KS JC 4C 3C QH 10H 9C 7C JS 5S 4D 10C JD QS JH 3H 4S 7S 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+2D
+
+Table 3
+QD
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+KH 8S 5D 2C QC 6D KD 8H AS 2D 6H AD 10S 10D 8C 2H 3S 2S 6S 5H QD KC 7H 4H 9D 9H 6C 8D 
+Hand 3
+AC 9S 3D 7D AH 5C KS JC 4C 3C QH 10H 9C 7C JS 5S 4D 10C JD QS JH 3H 4S 7S 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+KH
+
+Table 3
+AC
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+8S 5D 2C QC 6D KD 8H AS 2D 6H AD 10S 10D 8C 2H 3S 2S 6S 5H QD KC 7H 4H 9D 9H 6C 8D 
+Hand 3
+3C JS QH AC 3D QS KH JC 3H 9S 7S 5S KS 4D 4S JD 4C JH 10C 9C 5C 7C 10H AH 7D 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+8S
+
+Table 3
+3C
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+5D 2C QC 6D KD 8H AS 2D 6H AD 10S 10D 8C 2H 3S 2S 6S 5H QD KC 7H 4H 9D 9H 6C 8D 
+Hand 3
+3H JH 7D 4D 9C 5S JS 10H KS 4S JD 5C 9S 8S 7C 4C AH 3C QS 7S 10C AC 3D JC QH KH 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+5D
+
+Table 3
+3H
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+2C QC 6D KD 8H AS 2D 6H AD 10S 10D 8C 2H 3S 2S 6S 5H QD KC 7H 4H 9D 9H 6C 8D 
+Hand 3
+3D QH 3C 5D 7C QS KS KH 9S 9C AC 5S 8S 3H AH JD 10H JH 7S 4C 4S 10C JC 5C 7D 4D JS 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+2C
+
+Table 3
+3D
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+8C 5H 6D QD 9D AS AD 2S 2C 10D 3D 8H 2D 4H 9H 2H QC 6C KC KD 6H 8D 6S 7H 10S 3S 
+Hand 3
+QH 3C 5D 7C QS KS KH 9S 9C AC 5S 8S 3H AH JD 10H JH 7S 4C 4S 10C JC 5C 7D 4D JS 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+8C
+
+Table 3
+QH
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+KC QD 2H QH 7H QC 2D 2S 8H 6C 6S 6H 4H 8C 9D 2C 3S 5H 10D AS 3D 10S 6D 9H AD 8D KD 
+Hand 3
+3C 5D 7C QS KS KH 9S 9C AC 5S 8S 3H AH JD 10H JH 7S 4C 4S 10C JC 5C 7D 4D JS 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+KC
+
+Table 3
+3C
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+QD 2H QH 7H QC 2D 2S 8H 6C 6S 6H 4H 8C 9D 2C 3S 5H 10D AS 3D 10S 6D 9H AD 8D KD 
+Hand 3
+10C 5S AC JS 7C JH AH JD 9S 4S 5D 4D 9C 3H 3C 5C 7D 7S JC KS KC 8S 10H QS KH 4C 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+QD
+
+Table 3
+10C
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+2H QH 7H QC 2D 2S 8H 6C 6S 6H 4H 8C 9D 2C 3S 5H 10D AS 3D 10S 6D 9H AD 8D KD 
+Hand 3
+3H JS QD AH 3C KC QS 10C 7C 4D AC 8S 7S JC 5D 4S 5S 9C 7D JD JH 5C 4C 10H 9S KS KH 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+2H
+
+Table 3
+3H
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+8H 2D 3S 6H 4H 7H 2H 6S AS 9D 10S 8C 3D 10D 9H 6C KD 6D AD 2C 8D 3H QC 5H 2S QH 
+Hand 3
+JS QD AH 3C KC QS 10C 7C 4D AC 8S 7S JC 5D 4S 5S 9C 7D JD JH 5C 4C 10H 9S KS KH 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+8H
+
+Table 3
+JS
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+8D 3D AD 8H QC 7H 10D 8C KD 9H 5H JS 9D AS 10S 6C 2C 2S 3H 4H 3S 2D 6D 6H 6S 2H QH 
+Hand 3
+QD AH 3C KC QS 10C 7C 4D AC 8S 7S JC 5D 4S 5S 9C 7D JD JH 5C 4C 10H 9S KS KH 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+8D
+
+Table 3
+QD
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+3D 10D 9H 6D JS 8C 4H AD 10S 3H 6S 5H 3S 6H AS 2D QD QH 7H KD 2S 2H 6C QC 9D 2C 8D 8H 
+Hand 3
+AH 3C KC QS 10C 7C 4D AC 8S 7S JC 5D 4S 5S 9C 7D JD JH 5C 4C 10H 9S KS KH 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+3D
+
+Table 3
+AH
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+10D 9H 6D JS 8C 4H AD 10S 3H 6S 5H 3S 6H AS 2D QD QH 7H KD 2S 2H 6C QC 9D 2C 8D 8H 
+Hand 3
+3C KS 7D 4S 4D 5S 4C QS 9S 10H 8S KC JD 5C AC AH JC 3D 5D 7C 9C KH 7S JH 10C 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+10D
+
+Table 3
+3C
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+9H 6D JS 8C 4H AD 10S 3H 6S 5H 3S 6H AS 2D QD QH 7H KD 2S 2H 6C QC 9D 2C 8D 8H 
+Hand 3
+10H 5D AC 3D KC 7C 9S 5S 4D 8S KH 10C 4C JD KS JC 4S QS 9C 10D 3C 5C JH 7S 7D AH 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+9H
+
+Table 3
+10H
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+2C AS QH 10H 8D 8H 2S 2D 6H 4H 5H 10S 6S 8C 2H QD KD QC JS 6D 7H 3S 6C AD 3H 9D 9H 
+Hand 3
+5D AC 3D KC 7C 9S 5S 4D 8S KH 10C 4C JD KS JC 4S QS 9C 10D 3C 5C JH 7S 7D AH 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+2C
+
+Table 3
+5D
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+5D 7H 8C 2S 2D 6S 4H 3H QH QD 6C AS 6D 5H 9H 2C 8D JS 9D 6H 10S QC AD KD 2H 8H 10H 3S 
+Hand 3
+AC 3D KC 7C 9S 5S 4D 8S KH 10C 4C JD KS JC 4S QS 9C 10D 3C 5C JH 7S 7D AH 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+5D
+
+Table 3
+AC
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+7H 8C 2S 2D 6S 4H 3H QH QD 6C AS 6D 5H 9H 2C 8D JS 9D 6H 10S QC AD KD 2H 8H 10H 3S 
+Hand 3
+AC 4C 3D 10C 10D 9S AH KS JD 4S 7C 3C KC QS 5S KH 8S 4D 7S 9C 5C JC 7D 5D JH 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+7H
+
+Table 3
+AC
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+8C 2S 2D 6S 4H 3H QH QD 6C AS 6D 5H 9H 2C 8D JS 9D 6H 10S QC AD KD 2H 8H 10H 3S 
+Hand 3
+5C JC 3C KS AH QS 5D 4D 4C 10C 9C JD AC 8S 7S 3D 7D 10D 5S 4S KC 7H KH 7C 9S JH 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+8C
+
+Table 3
+5C
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+2S 2D 6S 4H 3H QH QD 6C AS 6D 5H 9H 2C 8D JS 9D 6H 10S QC AD KD 2H 8H 10H 3S 
+Hand 3
+QS 5S 5D 4C 7D JD 9C 10D 8C 4D 7H KS 3C AH 10C 7S KC 8S KH 7C 4S JH 9S 5C 3D AC JC 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+2S
+
+Table 3
+QS
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+QD KD JS AD 9D QC 6S 6H 3H 5H 2D QH 2S 3S 4H 2C 9H 6D 6C 8H 10S 10H QS AS 8D 2H 
+Hand 3
+5S 5D 4C 7D JD 9C 10D 8C 4D 7H KS 3C AH 10C 7S KC 8S KH 7C 4S JH 9S 5C 3D AC JC 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+QD
+
+Table 3
+5S
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+KD JS AD 9D QC 6S 6H 3H 5H 2D QH 2S 3S 4H 2C 9H 6D 6C 8H 10S 10H QS AS 8D 2H 
+Hand 3
+10D 3D KC JH 9C AH 7D 4D 4S 9S JC 7S JD 10C KS 3C KH 5S 7C 5D AC QD 5C 7H 8S 8C 4C 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+KD
+
+Table 3
+10D
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+JS AD 9D QC 6S 6H 3H 5H 2D QH 2S 3S 4H 2C 9H 6D 6C 8H 10S 10H QS AS 8D 2H 
+Hand 3
+10C 5C KD 3C AH 7S KC KH 5D 7C 9C KS JH 4S JD 7H 3D 4C 5S JC AC 4D 7D 10D 9S 8C QD 8S 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+JS
+
+Table 3
+10C
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+AD 9D QC 6S 6H 3H 5H 2D QH 2S 3S 4H 2C 9H 6D 6C 8H 10S 10H QS AS 8D 2H 
+Hand 3
+5C 7C 7S QD 3D 7H 8S KS JH JS 4D AH AC 7D 3C 4C 5D 5S 4S 9S KH 10C 10D KC KD 9C JC JD 8C 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+AD
+
+Table 3
+5C
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+4H 6S 3H 10S 6H QC 10H 8D 3S 9H 2H QS 6C 9D 6D 5C 8H AD 2S 2C QH AS 2D 5H 
+Hand 3
+7C 7S QD 3D 7H 8S KS JH JS 4D AH AC 7D 3C 4C 5D 5S 4S 9S KH 10C 10D KC KD 9C JC JD 8C 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+4H
+
+Table 3
+7C
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+9D 2D 9H 6D AD 10S 8H 6C 7C 6H 5H 3S 2H QS 2S QH 4H 3H AS 5C 2C QC 6S 8D 10H 
+Hand 3
+7S QD 3D 7H 8S KS JH JS 4D AH AC 7D 3C 4C 5D 5S 4S 9S KH 10C 10D KC KD 9C JC JD 8C 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+9D
+
+Table 3
+7S
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+2D 9H 6D AD 10S 8H 6C 7C 6H 5H 3S 2H QS 2S QH 4H 3H AS 5C 2C QC 6S 8D 10H 
+Hand 3
+3C 3D 9S 7S 5S JC KH 7D JH KD 7H 10C AH KC 5D JS 9C AC JD 9D QD 4D KS 8C 8S 4S 10D 4C 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+2D
+
+Table 3
+3C
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+5H QC 2H 2S 4H 6H 2D 8H QS 7C 3H AD 6S 8D 6D AS 3S 9H QH 6C 10S 2C 3C 10H 5C 
+Hand 3
+3D 9S 7S 5S JC KH 7D JH KD 7H 10C AH KC 5D JS 9C AC JD 9D QD 4D KS 8C 8S 4S 10D 4C 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+5H
+
+Table 3
+3D
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+QC 2H 2S 4H 6H 2D 8H QS 7C 3H AD 6S 8D 6D AS 3S 9H QH 6C 10S 2C 3C 10H 5C 
+Hand 3
+9C 8S 9S JC JH KC 5S 7D 7H 3D 4S 8C QD JS KH 5H KD AH 9D 4D 7S AC 4C KS 10C 10D JD 5D 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+QC
+
+Table 3
+9C
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+2H 2S 4H 6H 2D 8H QS 7C 3H AD 6S 8D 6D AS 3S 9H QH 6C 10S 2C 3C 10H 5C 
+Hand 3
+4D AC 4S KD AH KH 4C 5S 7D JC 10D KS JS JD 10C 5D 9C 9D 8S JH 9S 5H 8C QD QC 3D 7H KC 7S 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+2H
+
+Table 3
+4D
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+3H 2C 3C AS 6H QH QS 10H 6S 6D 4H AD 2D 5C 8H 7C 9H 8D 4D 6C 2S 10S 2H 3S 
+Hand 3
+AC 4S KD AH KH 4C 5S 7D JC 10D KS JS JD 10C 5D 9C 9D 8S JH 9S 5H 8C QD QC 3D 7H KC 7S 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+3H
+
+Table 3
+AC
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+2C 3C AS 6H QH QS 10H 6S 6D 4H AD 2D 5C 8H 7C 9H 8D 4D 6C 2S 10S 2H 3S 
+Hand 3
+10C 9S 5S 5H AH KS AC 7S 4S 5D JD 8S 4C 10D KH 9C JH QD 7D JS JC QC 7H 8C 9D 3H 3D KC KD 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+2C
+
+Table 3
+10C
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+6C 10S 3C AD QS 8H 2C 2D 6S AS 10C 2H 9H 7C 2S 8D 4H 3S QH 6D 5C 10H 6H 4D 
+Hand 3
+9S 5S 5H AH KS AC 7S 4S 5D JD 8S 4C 10D KH 9C JH QD 7D JS JC QC 7H 8C 9D 3H 3D KC KD 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+6C
+
+Table 3
+9S
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+2D 5C AS QS 4H 10C 6S 6D 10S 8H QH 6H 6C 9S 8D 4D 3S 3C 2C 9H 10H 7C 2S 2H AD 
+Hand 3
+5S 5H AH KS AC 7S 4S 5D JD 8S 4C 10D KH 9C JH QD 7D JS JC QC 7H 8C 9D 3H 3D KC KD 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+2D
+
+Table 3
+5S
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+10C 6D QH 6H 4D 2H 7C 3C 10S 10H 5S 8H 2C 3S 9H 6S AD 6C QS 2S 9S AS 5C 2D 4H 8D 
+Hand 3
+5H AH KS AC 7S 4S 5D JD 8S 4C 10D KH 9C JH QD 7D JS JC QC 7H 8C 9D 3H 3D KC KD 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+10C
+
+Table 3
+5H
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+6D QH 6H 4D 2H 7C 3C 10S 10H 5S 8H 2C 3S 9H 6S AD 6C QS 2S 9S AS 5C 2D 4H 8D 
+Hand 3
+9D 7H 10C 7D 5D JD 4S JC 5H 10D JS 8C QC KS 3D 7S KD 4C JH 3H AC KC KH 9C 8S AH QD 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+6D
+
+Table 3
+9D
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+2D QS AD 5S 2C QH 4D 5C 9S 6C 6H 8D 8H 9D 2S 10S 10H AS 7C 6S 3C 2H 3S 9H 6D 4H 
+Hand 3
+7H 10C 7D 5D JD 4S JC 5H 10D JS 8C QC KS 3D 7S KD 4C JH 3H AC KC KH 9C 8S AH QD 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+2D
+
+Table 3
+7H
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+QS 6C 10S 6D 9S 9H 8H 3S 8D 6H 3C 2H 7H AS 5S AD QH 7C 2D 9D 2C 10H 4D 6S 5C 4H 2S 
+Hand 3
+10C 7D 5D JD 4S JC 5H 10D JS 8C QC KS 3D 7S KD 4C JH 3H AC KC KH 9C 8S AH QD 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+QS
+
+Table 3
+10C
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+6C 10S 6D 9S 9H 8H 3S 8D 6H 3C 2H 7H AS 5S AD QH 7C 2D 9D 2C 10H 4D 6S 5C 4H 2S 
+Hand 3
+QC KD 7S 4C AH QD KH 5H JD 7D JH QS 4S KC JS 10D AC 5D 8C 3H 3D 10C JC KS 8S 9C 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+6C
+
+Table 3
+QC
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+10H 2H 6H 3S 6C 4D 8H 5S 8D 2D 2C 10S QH 4H 9S 2S AD 6D 7H 6S 5C 9H AS 9D QC 3C 7C 
+Hand 3
+KD 7S 4C AH QD KH 5H JD 7D JH QS 4S KC JS 10D AC 5D 8C 3H 3D 10C JC KS 8S 9C 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+10H
+
+Table 3
+KD
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+6C QC 9H 2C 9D 3C 8D 10S 6S 7H AS 5C 4D 2H 8H 9S 2S QH 3S 4H 5S KD 6H 7C 10H 2D 6D AD 
+Hand 3
+7S 4C AH QD KH 5H JD 7D JH QS 4S KC JS 10D AC 5D 8C 3H 3D 10C JC KS 8S 9C 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+6C
+
+Table 3
+7S
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+2D QH 8H 2S 10S 3C 4D 7S 9S 5C 4H QC 6C KD 6D AD 2H 6H 9D 7C 9H 10H 5S 3S 7H 2C 8D 6S AS 
+Hand 3
+4C AH QD KH 5H JD 7D JH QS 4S KC JS 10D AC 5D 8C 3H 3D 10C JC KS 8S 9C 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+2D
+
+Table 3
+4C
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+7C 6H QH 10H 4C KD 4H 4D AS 10S 6S 5C 9D 6D 2D 2C 9S 8H 6C 8D 7S 3C QC 3S 2H AD 2S 9H 7H 5S 
+Hand 3
+AH QD KH 5H JD 7D JH QS 4S KC JS 10D AC 5D 8C 3H 3D 10C JC KS 8S 9C 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+7C
+
+Table 3
+AH
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+6H QH 10H 4C KD 4H 4D AS 10S 6S 5C 9D 6D 2D 2C 9S 8H 6C 8D 7S 3C QC 3S 2H AD 2S 9H 7H 5S 
+Hand 3
+KS 10D JD 5H AC QS AH 7C KC 3H 8S 7D 8C JH 5D KH 4S QD 9C 10C JS 3D JC 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+6H
+
+Table 3
+KS
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+10H 8D 6S 2S 7H KS 6C 9S 2C AD QH KD 3C 5S 8H 9H 5C AS 3S 10S 7S 4D 2H 2D 9D QC 4C 6H 4H 6D 
+Hand 3
+10D JD 5H AC QS AH 7C KC 3H 8S 7D 8C JH 5D KH 4S QD 9C 10C JS 3D JC 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+10H
+
+Table 3
+10D
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+8D 6S 2S 7H KS 6C 9S 2C AD QH KD 3C 5S 8H 9H 5C AS 3S 10S 7S 4D 2H 2D 9D QC 4C 6H 4H 6D 
+Hand 3
+JD 5H AC QS AH 7C KC 3H 8S 7D 8C JH 5D KH 4S QD 9C 10C JS 3D JC 
+Hand 4
+
+
+
+Hand 1
+
+Hand 2
+7S 10D 3C 2H KD 10H 5C 10S AS 2D 6D 8D 2C KS 6H 4D 3S 4H QC 9S 5S 6C 7H 2S 8H 9D 6S AD 9H QH 4C 
+Hand 3
+JD 5H AC QS AH 7C KC 3H 8S 7D 8C JH 5D KH 4S QD 9C 10C JS 3D JC 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+7S
+
+Table 3
+JD
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+10S 2H 5C KD 4C 10H 7S AS 8D 9H 3C 6D 5S 3S 2S KS 7H 9D 6C 9S 6S 4D JD 4H 8H 10D 6H QC AD 2D QH 2C 
+Hand 3
+5H AC QS AH 7C KC 3H 8S 7D 8C JH 5D KH 4S QD 9C 10C JS 3D JC 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+10S
+
+Table 3
+5H
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+2H 5C KD 4C 10H 7S AS 8D 9H 3C 6D 5S 3S 2S KS 7H 9D 6C 9S 6S 4D JD 4H 8H 10D 6H QC AD 2D QH 2C 
+Hand 3
+3D 7D QS 4S AH 5D 3H 8C AC 10C 9C QD 5H JS 8S 10S KH 7C JC KC JH 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+2H
+
+Table 3
+3D
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+6C 9D 3C 5S QH 4C 10H 7H JD 2H 9S 2D 2C 8H KS 6H KD 3D 6D 5C 6S 4H 7S 8D 4D 2S AD 10D QC 3S AS 9H 
+Hand 3
+7D QS 4S AH 5D 3H 8C AC 10C 9C QD 5H JS 8S 10S KH 7C JC KC JH 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+6C
+
+Table 3
+7D
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+6S 7D 2C 9H 4D KD 7H 2H 4H 3S 6C 6D JD 8D AS 2S 4C 10D 5S 10H 3C AD 9D QH 9S 3D 8H KS QC 6H 7S 5C 2D 
+Hand 3
+QS 4S AH 5D 3H 8C AC 10C 9C QD 5H JS 8S 10S KH 7C JC KC JH 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+6S
+
+Table 3
+QS
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+10H 5S 8H 2C 6H 3S 2D 10D 7S AD 2H 6C 4C 5C 2S QC 9H QS 6S 9S 6D KD AS QH 9D 4D KS 7H 8D 7D 4H 3C 3D JD 
+Hand 3
+4S AH 5D 3H 8C AC 10C 9C QD 5H JS 8S 10S KH 7C JC KC JH 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+10H
+
+Table 3
+4S
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+5S 8H 2C 6H 3S 2D 10D 7S AD 2H 6C 4C 5C 2S QC 9H QS 6S 9S 6D KD AS QH 9D 4D KS 7H 8D 7D 4H 3C 3D JD 
+Hand 3
+9C 4S 7C 3H 5H 8S JC 5D 10C KH AH QD AC KC 10H JH JS 8C 10S 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+5S
+
+Table 3
+9C
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+6C AS 9C 4H 3C 7S 7H 3S 3D QH 6D 10D AD KS 6H 8D QC 2H 2D 7D KD 4C 9D 9S 9H 2C QS 6S 4D JD 8H 2S 5C 5S 
+Hand 3
+4S 7C 3H 5H 8S JC 5D 10C KH AH QD AC KC 10H JH JS 8C 10S 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+6C
+
+Table 3
+4S
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+AS 9C 4H 3C 7S 7H 3S 3D QH 6D 10D AD KS 6H 8D QC 2H 2D 7D KD 4C 9D 9S 9H 2C QS 6S 4D JD 8H 2S 5C 5S 
+Hand 3
+7C 8S 10H AH 10C KH 10S 4S JH JC 6C 8C QD 3H AC 5D JS 5H KC 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+AS
+
+Table 3
+7C
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+2D 8H 7H 3C QS 4H 7D 4C 5C 2S 7C 2C 4D 10D 8D KD AD 6D KS JD 9H 6S 9D AS 9S 3S 3D 6H QH 9C 2H 5S 7S QC 
+Hand 3
+8S 10H AH 10C KH 10S 4S JH JC 6C 8C QD 3H AC 5D JS 5H KC 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+2D
+
+Table 3
+8S
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+7S 7C 4H 2D 6S 2C 10D 8H 2H 8D 5S AS 9H 6D 4D QH 9S 7H QC 8S QS 3D 7D AD 9C KD 5C 6H JD KS 4C 2S 9D 3C 3S 
+Hand 3
+10H AH 10C KH 10S 4S JH JC 6C 8C QD 3H AC 5D JS 5H KC 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+7S
+
+Table 3
+10H
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+5S 10H 4D 9H JD 9C AD 6D 7H 7S QC 9D QS 6H KD 2C 8S KS 3D 8H 3C 4C QH 8D 7D 2S 9S 3S 2D AS 2H 5C 7C 6S 4H 10D 
+Hand 3
+AH 10C KH 10S 4S JH JC 6C 8C QD 3H AC 5D JS 5H KC 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+5S
+
+Table 3
+AH
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+10H 4D 9H JD 9C AD 6D 7H 7S QC 9D QS 6H KD 2C 8S KS 3D 8H 3C 4C QH 8D 7D 2S 9S 3S 2D AS 2H 5C 7C 6S 4H 10D 
+Hand 3
+JS 5D AC KH QD JC 6C 10C 3H JH 5S AH 8C 5H KC 4S 10S 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+10H
+
+Table 3
+JS
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+7S 9D 7C 9H KD 9C QH QS 3S 6S 7H 5C JD 10D 8S 7D 6D 9S 4H 4D 3C JS AD 2C 2H 2D 2S 10H 4C 8D 3D 6H QC 8H KS AS 
+Hand 3
+5D AC KH QD JC 6C 10C 3H JH 5S AH 8C 5H KC 4S 10S 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+7S
+
+Table 3
+5D
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+9D 7C 9H KD 9C QH QS 3S 6S 7H 5C JD 10D 8S 7D 6D 9S 4H 4D 3C JS AD 2C 2H 2D 2S 10H 4C 8D 3D 6H QC 8H KS AS 
+Hand 3
+KH 8C 5D 7S JC QD 5S 10S 6C 5H AH KC 3H AC 4S 10C JH 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+9D
+
+Table 3
+KH
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+6H 4H 2S 8D 9S 5C QC KS JS 3D JD 4D 4C QH KD 6S QS 6D 2C 2D 7H 8H AS 9D 10D 7D KH AD 2H 8S 7C 9C 9H 3C 10H 3S 
+Hand 3
+8C 5D 7S JC QD 5S 10S 6C 5H AH KC 3H AC 4S 10C JH 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+6H
+
+Table 3
+8C
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+10D 8D 8S 8H 9S 3S 6S 6H 2S AS 9H KS 6D 10H 8C 3C 4H KD 2H 4D QH 9D 2D QS 5C AD 7H 2C 3D 7D JD KH 4C 9C JS 7C QC 
+Hand 3
+5D 7S JC QD 5S 10S 6C 5H AH KC 3H AC 4S 10C JH 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+10D
+
+Table 3
+5D
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+8D 8S 8H 9S 3S 6S 6H 2S AS 9H KS 6D 10H 8C 3C 4H KD 2H 4D QH 9D 2D QS 5C AD 7H 2C 3D 7D JD KH 4C 9C JS 7C QC 
+Hand 3
+KC AC 10S 3H 6C 10D 5D AH 10C 4S 5S JC 5H 7S JH QD 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+8D
+
+Table 3
+KC
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+2C 9C 8C 5C 3D KD 3S 7C 6D 9H 6S KS 3C QC 6H 4H AS KC 7D 4C QS 8S 2D 2S 2H AD 9D 7H JS 10H 9S QH JD 8D 4D 8H KH 
+Hand 3
+AC 10S 3H 6C 10D 5D AH 10C 4S 5S JC 5H 7S JH QD 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+2C
+
+Table 3
+AC
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+9C 8C 5C 3D KD 3S 7C 6D 9H 6S KS 3C QC 6H 4H AS KC 7D 4C QS 8S 2D 2S 2H AD 9D 7H JS 10H 9S QH JD 8D 4D 8H KH 
+Hand 3
+AC 5D 10D 10S JC 5H 5S QD 2C 3H JH 10C 7S AH 6C 4S 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+9C
+
+Table 3
+AC
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+8C 5C 3D KD 3S 7C 6D 9H 6S KS 3C QC 6H 4H AS KC 7D 4C QS 8S 2D 2S 2H AD 9D 7H JS 10H 9S QH JD 8D 4D 8H KH 
+Hand 3
+5S AC AH 10S 10C 3H QD 5D 6C 10D 7S 4S 5H JH 2C 9C JC 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+8C
+
+Table 3
+5S
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+5C 3D KD 3S 7C 6D 9H 6S KS 3C QC 6H 4H AS KC 7D 4C QS 8S 2D 2S 2H AD 9D 7H JS 10H 9S QH JD 8D 4D 8H KH 
+Hand 3
+10S QD 6C 9C 4S AH 10D AC JC 5H 3H 5S 2C 10C 7S 8C 5D JH 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+5C
+
+Table 3
+10S
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+JD 9D 6S 4H 2S 8S 9H 2H 7C KH 10S 8H 10H KS AD 3S 6H KD AS QC 7D QH 8D 3C KC 3D QS 4C JS 6D 5C 9S 2D 7H 4D 
+Hand 3
+QD 6C 9C 4S AH 10D AC JC 5H 3H 5S 2C 10C 7S 8C 5D JH 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+JD
+
+Table 3
+QD
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+3C 6D 3D 9H 2H 9S 9D 8S QD 7H KH KS 10H QC 3S JS 10S 4D 5C AS AD KC 6H 7C 2S 8D 6S QH QS 4C KD 8H JD 2D 7D 4H 
+Hand 3
+6C 9C 4S AH 10D AC JC 5H 3H 5S 2C 10C 7S 8C 5D JH 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+3C
+
+Table 3
+6C
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+JD QH QD 8S 3D AD KH 3S 9D AS 9H KD 2D 10S 5C 4D KS 9S 8D 6H 2S 8H 6C JS 7H QS 7D 2H KC 7C QC 4C 6D 3C 6S 10H 4H 
+Hand 3
+9C 4S AH 10D AC JC 5H 3H 5S 2C 10C 7S 8C 5D JH 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+JD
+
+Table 3
+9C
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+QH QD 8S 3D AD KH 3S 9D AS 9H KD 2D 10S 5C 4D KS 9S 8D 6H 2S 8H 6C JS 7H QS 7D 2H KC 7C QC 4C 6D 3C 6S 10H 4H 
+Hand 3
+2C 10D JC 5H JD 10C 3H JH 5S AC 9C 4S AH 8C 5D 7S 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+QH
+
+Table 3
+2C
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+QD 8S 3D AD KH 3S 9D AS 9H KD 2D 10S 5C 4D KS 9S 8D 6H 2S 8H 6C JS 7H QS 7D 2H KC 7C QC 4C 6D 3C 6S 10H 4H 
+Hand 3
+4S 5D 2C JH 10D JD 5S 5H QH 7S JC 3H AC 9C 10C AH 8C 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+QD
+
+Table 3
+4S
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+8S 3D AD KH 3S 9D AS 9H KD 2D 10S 5C 4D KS 9S 8D 6H 2S 8H 6C JS 7H QS 7D 2H KC 7C QC 4C 6D 3C 6S 10H 4H 
+Hand 3
+JH 3H 10C 5H 7S QD JC 4S AC AH 8C 9C 10D JD 5D 2C QH 5S 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+8S
+
+Table 3
+JH
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+3S 9S KS KD KH 6S 7H 9H 9D AS 7C 3C JS 2D 10S 3D QC 6C 8H 7D 4D 8S AD 4C 4H 6H 2S 5C 6D KC JH 10H 2H QS 8D 
+Hand 3
+3H 10C 5H 7S QD JC 4S AC AH 8C 9C 10D JD 5D 2C QH 5S 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+3S
+
+Table 3
+3H
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+9S KS KD KH 6S 7H 9H 9D AS 7C 3C JS 2D 10S 3D QC 6C 8H 7D 4D 8S AD 4C 4H 6H 2S 5C 6D KC JH 10H 2H QS 8D 
+Hand 3
+10C 5H 7S QD JC 4S AC AH 8C 9C 10D JD 5D 2C QH 5S 
+Hand 4
+
+
+
+Hand 1
+
+Hand 2
+9D 7C KS KC 9H 8H 5C KD 6C 10H 3C AD 2H 4D 9S QS 6D 3S 2D 6S JS AS KH 4H 7D 10S 8S 3H 2S 4C QC 7H 3D JH 8D 6H 
+Hand 3
+10C 5H 7S QD JC 4S AC AH 8C 9C 10D JD 5D 2C QH 5S 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+9D
+
+Table 3
+10C
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+3C QC 10H 5C 7H 10C 7D 4D KH 6S 8H 6C 3S 9H 2H KD 6H KS 7C AS 4C 8S 4H 3D 2S QS 9S 3H AD 9D 6D KC 2D 10S JH JS 8D 
+Hand 3
+5H 7S QD JC 4S AC AH 8C 9C 10D JD 5D 2C QH 5S 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+3C
+
+Table 3
+5H
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+4D 5H 8H 7H 9D 4C 4H AS 5C QS KS AD 10C 2H 6H QC 2S 3S 3C 9S 6C KD 6D 7D 8S KC 3D 9H 3H 7C 10H 8D 6S JH KH JS 10S 2D 
+Hand 3
+7S QD JC 4S AC AH 8C 9C 10D JD 5D 2C QH 5S 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+4D
+
+Table 3
+7S
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+9S 7D 4C 3C KH 3D 7S 2H 6D JS 6S 8H JH QC 3S 8D 2S 6C 5C 5H KC 6H 10S 10C 3H QS AD 2D KS 9D 8S 10H 7C 4D AS 7H 9H 4H KD 
+Hand 3
+QD JC 4S AC AH 8C 9C 10D JD 5D 2C QH 5S 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+9S
+
+Table 3
+QD
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+3S 5H 3H 7S QC JH KH 2S 6H 4H 10S 7C 7D QD 3D 8S 6S KC JS 3C 9D 8H 2D 4D 4C 9S AD 10C 9H 6D KD 8D 7H QS AS 2H 6C 5C KS 10H 
+Hand 3
+JC 4S AC AH 8C 9C 10D JD 5D 2C QH 5S 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+3S
+
+Table 3
+JC
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+KD KH 9D 4C 3C QS 6D 7S 4H AD QD 9S 2H QC 4D KC AS 7H JC 6H 8D 7C 9H 5C 3H 7D JH 8S 8H 3D 2D JS 10S 5H KS 10C 2S 3S 6S 6C 10H 
+Hand 3
+4S AC AH 8C 9C 10D JD 5D 2C QH 5S 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+KD
+
+Table 3
+4S
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+KH 9D 4C 3C QS 6D 7S 4H AD QD 9S 2H QC 4D KC AS 7H JC 6H 8D 7C 9H 5C 3H 7D JH 8S 8H 3D 2D JS 10S 5H KS 10C 2S 3S 6S 6C 10H 
+Hand 3
+4S 9C 10D QH 8C 5S KD 2C 5D JD AC AH 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+KH
+
+Table 3
+4S
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+9D 4C 3C QS 6D 7S 4H AD QD 9S 2H QC 4D KC AS 7H JC 6H 8D 7C 9H 5C 3H 7D JH 8S 8H 3D 2D JS 10S 5H KS 10C 2S 3S 6S 6C 10H 
+Hand 3
+AH 2C QH JD AC 5S 4S 8C 10D 9C KH 5D KD 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+9D
+
+Table 3
+AH
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+4C 3C QS 6D 7S 4H AD QD 9S 2H QC 4D KC AS 7H JC 6H 8D 7C 9H 5C 3H 7D JH 8S 8H 3D 2D JS 10S 5H KS 10C 2S 3S 6S 6C 10H 
+Hand 3
+JD 9C 4S 2C 10D QH 8C KH KD 5D AC 9D AH 5S 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+4C
+
+Table 3
+JD
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+5C 3S 2D 5H 3C 6H KC QD 2S 7D 7S JC 6S 8S 4C 10H JD 6C 10C QS AS 7H 4D 3D 8H 6D 2H 4H 10S AD 9S 9H JS 7C 3H KS JH QC 8D 
+Hand 3
+9C 4S 2C 10D QH 8C KH KD 5D AC 9D AH 5S 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+5C
+
+Table 3
+9C
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+6H 8D QD 5H 4H 6S QS 8S 9S KC 3C AS 7C JD 6D 7D 9C JS 6C 3D 3S 4D 4C 2H JC 10C 9H JH AD KS QC 2D 10H 2S 10S 5C 7S 7H 3H 8H 
+Hand 3
+4S 2C 10D QH 8C KH KD 5D AC 9D AH 5S 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+6H
+
+Table 3
+4S
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+8D QD 5H 4H 6S QS 8S 9S KC 3C AS 7C JD 6D 7D 9C JS 6C 3D 3S 4D 4C 2H JC 10C 9H JH AD KS QC 2D 10H 2S 10S 5C 7S 7H 3H 8H 
+Hand 3
+10D 2C KH 5S KD 4S 8C 9D 5D QH AC AH 6H 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+8D
+
+Table 3
+10D
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+7C KS 10H JC 2H 5H 3S 10D 4C 6C 8D 7H AS AD 6D KC 10S QD JH 3D JD 2S 3H 4D 3C JS QC 6S 10C 9C 5C 9S 7S 7D 2D QS 8H 9H 8S 4H 
+Hand 3
+2C KH 5S KD 4S 8C 9D 5D QH AC AH 6H 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+7C
+
+Table 3
+2C
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+KS 10H JC 2H 5H 3S 10D 4C 6C 8D 7H AS AD 6D KC 10S QD JH 3D JD 2S 3H 4D 3C JS QC 6S 10C 9C 5C 9S 7S 7D 2D QS 8H 9H 8S 4H 
+Hand 3
+5S 8C QH KD 4S 9D 5D 2C AH AC 7C KH 6H 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+KS
+
+Table 3
+5S
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+10H JC 2H 5H 3S 10D 4C 6C 8D 7H AS AD 6D KC 10S QD JH 3D JD 2S 3H 4D 3C JS QC 6S 10C 9C 5C 9S 7S 7D 2D QS 8H 9H 8S 4H 
+Hand 3
+QH AC KD 5S 7C 5D 9D KH AH 8C 4S KS 6H 2C 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+10H
+
+Table 3
+QH
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+QD 10D 3C 7D QS 9C JC 7S 6D 10S 9H 8D 10H JD 2H 7H 6S 8H QH 4C JH 4D 3D 3S 2D 5H QC 4H 3H JS 5C 2S KC 10C 6C AS 9S AD 8S 
+Hand 3
+AC KD 5S 7C 5D 9D KH AH 8C 4S KS 6H 2C 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+QD
+
+Table 3
+AC
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+10D 3C 7D QS 9C JC 7S 6D 10S 9H 8D 10H JD 2H 7H 6S 8H QH 4C JH 4D 3D 3S 2D 5H QC 4H 3H JS 5C 2S KC 10C 6C AS 9S AD 8S 
+Hand 3
+2C 9D AH QD AC 5D 8C KS KD 5S 7C 6H 4S KH 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+10D
+
+Table 3
+2C
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+3C 7D QS 9C JC 7S 6D 10S 9H 8D 10H JD 2H 7H 6S 8H QH 4C JH 4D 3D 3S 2D 5H QC 4H 3H JS 5C 2S KC 10C 6C AS 9S AD 8S 
+Hand 3
+5D 7C 10D KD 5S QD 2C KS 6H 4S 8C AH 9D KH AC 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+3C
+
+Table 3
+5D
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+8H 2S 9S 9H 5D 7S AD 4C JH JS 10H 2D 4D 6S JD QC KC 7D 9C 3S 3H 7H 5C QH 2H QS 8D AS JC 6D 10C 3C 8S 3D 4H 5H 6C 10S 
+Hand 3
+7C 10D KD 5S QD 2C KS 6H 4S 8C AH 9D KH AC 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+8H
+
+Table 3
+7C
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+2S 9S 9H 5D 7S AD 4C JH JS 10H 2D 4D 6S JD QC KC 7D 9C 3S 3H 7H 5C QH 2H QS 8D AS JC 6D 10C 3C 8S 3D 4H 5H 6C 10S 
+Hand 3
+6H AH KD 4S 8C 10D QD 7C 8H AC 5S KH 2C KS 9D 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+2S
+
+Table 3
+6H
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+4C QH AD 4H 5D JH 6D 10S 6H 4D 10C 2S 6C 5H 10H JS AS 3D 7H JD JC QC 6S 8S 7D 3C 9S 3S 7S QS 8D KC 3H 9C 2H 9H 2D 5C 
+Hand 3
+AH KD 4S 8C 10D QD 7C 8H AC 5S KH 2C KS 9D 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+4C
+
+Table 3
+AH
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+QH AD 4H 5D JH 6D 10S 6H 4D 10C 2S 6C 5H 10H JS AS 3D 7H JD JC QC 6S 8S 7D 3C 9S 3S 7S QS 8D KC 3H 9C 2H 9H 2D 5C 
+Hand 3
+10D KH 4C AC AH 8C QD 2C KS KD 5S 9D 7C 4S 8H 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+QH
+
+Table 3
+10D
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+AD 4H 5D JH 6D 10S 6H 4D 10C 2S 6C 5H 10H JS AS 3D 7H JD JC QC 6S 8S 7D 3C 9S 3S 7S QS 8D KC 3H 9C 2H 9H 2D 5C 
+Hand 3
+9D KS 8H 10D 7C 4C QD KD 2C AH QH 4S AC 5S KH 8C 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+AD
+
+Table 3
+9D
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+10S QS JH 6D 5C QC 8D 7D 2D 4D 5D 8S JC 10C JS 3S 7S 6S 9S 6C JD 4H 9C 3C 3H 6H 9H AS 10H 2H 2S KC AD 7H 5H 3D 9D 
+Hand 3
+KS 8H 10D 7C 4C QD KD 2C AH QH 4S AC 5S KH 8C 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+10S
+
+Table 3
+KS
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+AD 2H 5C 8D 6S 3H JD 4D 7S AS 9D JS QC KC KS 2D 2S 6D QS 8S 10H 6H 5H 9S 4H 5D 10S 3S 10C 7D 9H 6C 3C 9C JH 3D JC 7H 
+Hand 3
+8H 10D 7C 4C QD KD 2C AH QH 4S AC 5S KH 8C 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+AD
+
+Table 3
+8H
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+10H 6S 7D 3H 9S KS 8S 5D 2H 6H 3D 6C 4D JS 8H QC 9C 9H 2S 3S 10C 5C 8D 7H 2D QS 3C AS AD 5H JH 7S KC JC 10S 9D 6D 4H JD 
+Hand 3
+10D 7C 4C QD KD 2C AH QH 4S AC 5S KH 8C 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+10H
+
+Table 3
+10D
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+6S 7D 3H 9S KS 8S 5D 2H 6H 3D 6C 4D JS 8H QC 9C 9H 2S 3S 10C 5C 8D 7H 2D QS 3C AS AD 5H JH 7S KC JC 10S 9D 6D 4H JD 
+Hand 3
+7C 4C QD KD 2C AH QH 4S AC 5S KH 8C 
+Hand 4
+
+
+
+Hand 1
+
+Hand 2
+2H JH 5C 7H QS 6S 2S 5H KS JD 3D 3S 7S JS 5D 4D AS QC 10H 10C AD 9C JC 3C 6H 8H 4H 10S 6C 10D KC 3H 9D 9S 6D 9H 8S 2D 7D 8D 
+Hand 3
+7C 4C QD KD 2C AH QH 4S AC 5S KH 8C 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+2H
+
+Table 3
+7C
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+6C 4D JD 7D 5C 7H KC 10H 2H 8H 6H 2S JC 6S JH QS QC 10D 10S 8S 3C 5D 2D 3H 9D AD 9C 9H 3D 6D KS AS 7C 5H 4H 7S 8D 3S 9S JS 10C 
+Hand 3
+4C QD KD 2C AH QH 4S AC 5S KH 8C 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+6C
+
+Table 3
+4C
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+4D JD 7D 5C 7H KC 10H 2H 8H 6H 2S JC 6S JH QS QC 10D 10S 8S 3C 5D 2D 3H 9D AD 9C 9H 3D 6D KS AS 7C 5H 4H 7S 8D 3S 9S JS 10C 
+Hand 3
+AC 8C QH KH KD 5S QD AH 2C 6C 4C 4S 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+4D
+
+Table 3
+AC
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+JD 7D 5C 7H KC 10H 2H 8H 6H 2S JC 6S JH QS QC 10D 10S 8S 3C 5D 2D 3H 9D AD 9C 9H 3D 6D KS AS 7C 5H 4H 7S 8D 3S 9S JS 10C 
+Hand 3
+8C 4D 4C KD 2C 5S QD AH QH KH 6C AC 4S 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+JD
+
+Table 3
+8C
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+7D 5C 7H KC 10H 2H 8H 6H 2S JC 6S JH QS QC 10D 10S 8S 3C 5D 2D 3H 9D AD 9C 9H 3D 6D KS AS 7C 5H 4H 7S 8D 3S 9S JS 10C 
+Hand 3
+4D KH KD 4S QD JD AH 8C 6C QH 5S AC 2C 4C 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+7D
+
+Table 3
+4D
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+5C 7H KC 10H 2H 8H 6H 2S JC 6S JH QS QC 10D 10S 8S 3C 5D 2D 3H 9D AD 9C 9H 3D 6D KS AS 7C 5H 4H 7S 8D 3S 9S JS 10C 
+Hand 3
+6C KD 2C 4D 7D 5S QD 8C 4S JD AC AH 4C KH QH 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+5C
+
+Table 3
+6C
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+6S 4H 3D 10D 9D 5C 10H 8D QS QC 8S 3H 9S JS KS 7C 5D JH JC 5H 6C AD 6D 10S 2S 10C 9C 7S 2H 3C KC 9H 3S 2D 7H AS 6H 8H 
+Hand 3
+KD 2C 4D 7D 5S QD 8C 4S JD AC AH 4C KH QH 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+6S
+
+Table 3
+KD
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+3C JS 7C QC 6D 7H 5D 2H 5H KS 8H QS 8S JC 10S 4H 3S 6S 5C 7S 9H 9C 2S KD 6H AD 10C 6C AS 10H 8D 10D KC 9S JH 9D 2D 3D 3H 
+Hand 3
+2C 4D 7D 5S QD 8C 4S JD AC AH 4C KH QH 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+3C
+
+Table 3
+2C
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+JS 7C QC 6D 7H 5D 2H 5H KS 8H QS 8S JC 10S 4H 3S 6S 5C 7S 9H 9C 2S KD 6H AD 10C 6C AS 10H 8D 10D KC 9S JH 9D 2D 3D 3H 
+Hand 3
+QD 4S 4C KH AC 4D 2C 5S 7D JD 8C QH AH 3C 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+JS
+
+Table 3
+QD
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+KS JS KD 6C JC 3S 10D 9S KC 9D QC 7S 2D 2H 7C 10S 10C 6S 9H 9C QD 6D 3D AS 8S QS 4H 8D 6H 5D AD 10H JH 2S 3H 5H 5C 8H 7H 
+Hand 3
+4S 4C KH AC 4D 2C 5S 7D JD 8C QH AH 3C 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+KS
+
+Table 3
+4S
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+JS KD 6C JC 3S 10D 9S KC 9D QC 7S 2D 2H 7C 10S 10C 6S 9H 9C QD 6D 3D AS 8S QS 4H 8D 6H 5D AD 10H JH 2S 3H 5H 5C 8H 7H 
+Hand 3
+7D KH 2C QH 4D 4S 3C AC AH KS 4C 8C 5S JD 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+JS
+
+Table 3
+7D
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+KD 6C JC 3S 10D 9S KC 9D QC 7S 2D 2H 7C 10S 10C 6S 9H 9C QD 6D 3D AS 8S QS 4H 8D 6H 5D AD 10H JH 2S 3H 5H 5C 8H 7H 
+Hand 3
+4S KH AC 8C KS JD 4C AH 5S 2C JS 7D 3C 4D QH 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+KD
+
+Table 3
+4S
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+6C JC 3S 10D 9S KC 9D QC 7S 2D 2H 7C 10S 10C 6S 9H 9C QD 6D 3D AS 8S QS 4H 8D 6H 5D AD 10H JH 2S 3H 5H 5C 8H 7H 
+Hand 3
+5S 8C 2C JD AC 4C KH 7D 3C 4D KS 4S AH JS QH KD 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+6C
+
+Table 3
+5S
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+JC 3S 10D 9S KC 9D QC 7S 2D 2H 7C 10S 10C 6S 9H 9C QD 6D 3D AS 8S QS 4H 8D 6H 5D AD 10H JH 2S 3H 5H 5C 8H 7H 
+Hand 3
+KS AC JS 2C 3C 8C QH 5S KD JD AH 7D 4C KH 4S 6C 4D 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+JC
+
+Table 3
+KS
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+3H 8H 9S 2D KC 10H 8S QD AD 2H 10S AS JC 10D QC 9D 3D 7S 4H 8D 9H QS 6H 3S 9C JH KS 5H 7C 2S 5C 10C 5D 6S 6D 7H 
+Hand 3
+AC JS 2C 3C 8C QH 5S KD JD AH 7D 4C KH 4S 6C 4D 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+3H
+
+Table 3
+AC
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+8H 9S 2D KC 10H 8S QD AD 2H 10S AS JC 10D QC 9D 3D 7S 4H 8D 9H QS 6H 3S 9C JH KS 5H 7C 2S 5C 10C 5D 6S 6D 7H 
+Hand 3
+3C JD AH 2C 3H JS 4C AC 8C 6C KD 4S 5S KH 4D QH 7D 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+8H
+
+Table 3
+3C
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+9S 2D KC 10H 8S QD AD 2H 10S AS JC 10D QC 9D 3D 7S 4H 8D 9H QS 6H 3S 9C JH KS 5H 7C 2S 5C 10C 5D 6S 6D 7H 
+Hand 3
+JS 3C AH JD 8C 7D 4C 8H 3H AC 5S QH KH KD 2C 4D 4S 6C 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+9S
+
+Table 3
+JS
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+9S 2D 3D QD 3S 8S 10H 6S 2S 7C AD JC 5H 6H QS 5D 4H 9C 10D 9D KC 5C KS AS JS 8D 10C JH 10S 6D 7H 2H 9H QC 7S 
+Hand 3
+3C AH JD 8C 7D 4C 8H 3H AC 5S QH KH KD 2C 4D 4S 6C 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+9S
+
+Table 3
+3C
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+2D 3D QD 3S 8S 10H 6S 2S 7C AD JC 5H 6H QS 5D 4H 9C 10D 9D KC 5C KS AS JS 8D 10C JH 10S 6D 7H 2H 9H QC 7S 
+Hand 3
+AH 3C 4D QH KH JD 5S 6C 7D KD 8H 4C 8C 2C AC 9S 4S 3H 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+2D
+
+Table 3
+AH
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+3D QD 3S 8S 10H 6S 2S 7C AD JC 5H 6H QS 5D 4H 9C 10D 9D KC 5C KS AS JS 8D 10C JH 10S 6D 7H 2H 9H QC 7S 
+Hand 3
+3C 7D 8C AH 3H KD 9S QH 4D 2C KH 2D 8H AC 5S 4C 6C JD 4S 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+3D
+
+Table 3
+3C
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+QD 3S 8S 10H 6S 2S 7C AD JC 5H 6H QS 5D 4H 9C 10D 9D KC 5C KS AS JS 8D 10C JH 10S 6D 7H 2H 9H QC 7S 
+Hand 3
+7D 8C AH 3H KD 9S QH 4D 2C KH 2D 8H AC 5S 4C 6C JD 4S 
+Hand 4
+
+
+
+Hand 1
+
+Hand 2
+3C 9C 4H 8S 5D AS 7S KC 10S 10D 2H AD 9H QS JC 7H 6H 3S 10C 10H JH 8D 2S 6S 5H QD JS QC 9D 7C 3D 5C KS 6D 
+Hand 3
+7D 8C AH 3H KD 9S QH 4D 2C KH 2D 8H AC 5S 4C 6C JD 4S 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+3C
+
+Table 3
+7D
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+10S 4H JS QC JC AS 8D 7H 6H 6S 5H 9C 8S QS 6D 9H 10H 3S KC 9D AD QD 10D KS 3C 2S 5C 3D 7D 10C 7C 2H JH 5D 7S 
+Hand 3
+8C AH 3H KD 9S QH 4D 2C KH 2D 8H AC 5S 4C 6C JD 4S 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+10S
+
+Table 3
+8C
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+4H JS QC JC AS 8D 7H 6H 6S 5H 9C 8S QS 6D 9H 10H 3S KC 9D AD QD 10D KS 3C 2S 5C 3D 7D 10C 7C 2H JH 5D 7S 
+Hand 3
+JD KD 4S 2D QH 3H 8H 10S AC 8C KH 4D 5S 2C 6C AH 4C 9S 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+4H
+
+Table 3
+JD
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+AS 9H 10H QD 9C 3C 6S KC JH JD QS 5C 3D 2S 7S 5D 10D KS 7D 2H 7C 10C JC 8S AD 9D 3S 6H 5H QC 4H 8D 7H 6D JS 
+Hand 3
+KD 4S 2D QH 3H 8H 10S AC 8C KH 4D 5S 2C 6C AH 4C 9S 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+AS
+
+Table 3
+KD
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+AD 9H 2H KS 7C KD 8S 2S JC 7H QS 5C 10C KC 5H AS JH 6H 7D 9C QD 3C 8D QC 9D JS JD 6S 10D 3D 3S 10H 6D 4H 5D 7S 
+Hand 3
+4S 2D QH 3H 8H 10S AC 8C KH 4D 5S 2C 6C AH 4C 9S 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+AD
+
+Table 3
+4S
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+4S 6H JH QS 8D AS 9C 5D 3S 10H 8S 9D 5C JS 3D AD 7S QC 5H JC 7D 4H 7H 3C KS 7C 6D JD 9H QD 10D 2H KD KC 10C 2S 6S 
+Hand 3
+2D QH 3H 8H 10S AC 8C KH 4D 5S 2C 6C AH 4C 9S 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+4S
+
+Table 3
+2D
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+6H JH QS 8D AS 9C 5D 3S 10H 8S 9D 5C JS 3D AD 7S QC 5H JC 7D 4H 7H 3C KS 7C 6D JD 9H QD 10D 2H KD KC 10C 2S 6S 
+Hand 3
+3H 10S KH 8C 4S 8H 9S QH 6C AH 2D 2C 5S 4D AC 4C 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+6H
+
+Table 3
+3H
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+JH QS 8D AS 9C 5D 3S 10H 8S 9D 5C JS 3D AD 7S QC 5H JC 7D 4H 7H 3C KS 7C 6D JD 9H QD 10D 2H KD KC 10C 2S 6S 
+Hand 3
+4S 9S 10S AC QH KH 8C 5S 6C AH 4D 6H 2D 3H 4C 8H 2C 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+JH
+
+Table 3
+4S
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+QS 8D AS 9C 5D 3S 10H 8S 9D 5C JS 3D AD 7S QC 5H JC 7D 4H 7H 3C KS 7C 6D JD 9H QD 10D 2H KD KC 10C 2S 6S 
+Hand 3
+KH 4D 9S 6H AH 5S 4C 3H JH 10S AC 8C 2C 4S 2D 8H 6C QH 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+QS
+
+Table 3
+KH
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+QC QD JD 3C 7D 7C 5D 5C KC 10H 2H QS 9C JC 5H 3S 10C AD 7H AS 10D KS JS 8D 9H KD KH 3D 6S 4H 6D 7S 2S 9D 8S 
+Hand 3
+4D 9S 6H AH 5S 4C 3H JH 10S AC 8C 2C 4S 2D 8H 6C QH 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+QC
+
+Table 3
+4D
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+QD JD 3C 7D 7C 5D 5C KC 10H 2H QS 9C JC 5H 3S 10C AD 7H AS 10D KS JS 8D 9H KD KH 3D 6S 4H 6D 7S 2S 9D 8S 
+Hand 3
+9S JH 4S 6C 4D AC 2D 8C 4C 2C 5S QH QC 8H 10S 3H 6H AH 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+QD
+
+Table 3
+9S
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+JD 3C 7D 7C 5D 5C KC 10H 2H QS 9C JC 5H 3S 10C AD 7H AS 10D KS JS 8D 9H KD KH 3D 6S 4H 6D 7S 2S 9D 8S 
+Hand 3
+5S QH 6H JH 9S 4S 8H 10S QC 4D 4C QD 2C AC 6C 8C 2D AH 3H 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+JD
+
+Table 3
+5S
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+3C 7D 7C 5D 5C KC 10H 2H QS 9C JC 5H 3S 10C AD 7H AS 10D KS JS 8D 9H KD KH 3D 6S 4H 6D 7S 2S 9D 8S 
+Hand 3
+10S AC 3H 8C QC 5S 6C 6H AH JD 2C 8H QH 9S 4S QD 2D JH 4D 4C 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+3C
+
+Table 3
+10S
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+5C JS KC 8S 7C 6S 3D 4H 8D 3S AS QS 3C 9D KH 10H 10S 9C 7H KD 2H 2S 5H AD 7S 7D 10D 5D JC 10C 9H KS 6D 
+Hand 3
+AC 3H 8C QC 5S 6C 6H AH JD 2C 8H QH 9S 4S QD 2D JH 4D 4C 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+5C
+
+Table 3
+AC
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+JS KC 8S 7C 6S 3D 4H 8D 3S AS QS 3C 9D KH 10H 10S 9C 7H KD 2H 2S 5H AD 7S 7D 10D 5D JC 10C 9H KS 6D 
+Hand 3
+4S 4C QD JH 8H 4D 2D 2C AH 9S AC 5S 5C 6H 3H JD 8C QH 6C QC 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+JS
+
+Table 3
+4S
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+KC 8S 7C 6S 3D 4H 8D 3S AS QS 3C 9D KH 10H 10S 9C 7H KD 2H 2S 5H AD 7S 7D 10D 5D JC 10C 9H KS 6D 
+Hand 3
+JS 2D QD QH 4D 8C 6C 5C AC 3H 5S 4C 2C 4S 9S AH 8H QC 6H JH JD 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+KC
+
+Table 3
+JS
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+8S 7C 6S 3D 4H 8D 3S AS QS 3C 9D KH 10H 10S 9C 7H KD 2H 2S 5H AD 7S 7D 10D 5D JC 10C 9H KS 6D 
+Hand 3
+9S 6C 4D QD 2D 8H 3H AH JS 4C JH KC 6H 2C JD 4S AC QC QH 5S 5C 8C 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+8S
+
+Table 3
+9S
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+QS KS 7H 9D 7S 10C KH AS 3D 8D 9C 7C 2S 10H KD 2H 9H 3S 8S JC 3C 5D 10D 10S 9S AD 6D 7D 5H 6S 4H 
+Hand 3
+6C 4D QD 2D 8H 3H AH JS 4C JH KC 6H 2C JD 4S AC QC QH 5S 5C 8C 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+QS
+
+Table 3
+6C
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+KS 7H 9D 7S 10C KH AS 3D 8D 9C 7C 2S 10H KD 2H 9H 3S 8S JC 3C 5D 10D 10S 9S AD 6D 7D 5H 6S 4H 
+Hand 3
+6H 4D KC 6C 4S AH 3H 5S 2D JS QH QD 2C 8H 5C QS JD 8C QC 4C AC JH 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+KS
+
+Table 3
+6H
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+7H 9D 7S 10C KH AS 3D 8D 9C 7C 2S 10H KD 2H 9H 3S 8S JC 3C 5D 10D 10S 9S AD 6D 7D 5H 6S 4H 
+Hand 3
+JH 2C 6C 2D 5C 8C AC 4D QH KS QS 6H AH 4C 8H 3H JD 4S 5S QC KC JS QD 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+7H
+
+Table 3
+JH
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+6D 7C 10D 4H 3S KD 7S JC 9S 3C JH 3D 5D 2H 8D AS 9H 10S 10C 7H AD 9C 6S 10H 9D 7D 2S 8S 5H KH 
+Hand 3
+2C 6C 2D 5C 8C AC 4D QH KS QS 6H AH 4C 8H 3H JD 4S 5S QC KC JS QD 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+6D
+
+Table 3
+2C
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+7C 10D 4H 3S KD 7S JC 9S 3C JH 3D 5D 2H 8D AS 9H 10S 10C 7H AD 9C 6S 10H 9D 7D 2S 8S 5H KH 
+Hand 3
+KC 6C 8H 6D 4S QH JS 2D 2C AC 3H QS 4C 5C AH 4D QC JD QD KS 5S 6H 8C 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+7C
+
+Table 3
+KC
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+KC 8D AS 3S 7C 9C JC JH 8S 9D 2S 5D 3D 10C 5H 7D 3C 9S 2H 6S 10D 7H AD 4H KD 10S 7S 10H KH 9H 
+Hand 3
+6C 8H 6D 4S QH JS 2D 2C AC 3H QS 4C 5C AH 4D QC JD QD KS 5S 6H 8C 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+KC
+
+Table 3
+6C
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+8D AS 3S 7C 9C JC JH 8S 9D 2S 5D 3D 10C 5H 7D 3C 9S 2H 6S 10D 7H AD 4H KD 10S 7S 10H KH 9H 
+Hand 3
+6H 5C KS JD JS 2D KC 6C AH AC 8C QD 3H 5S QC 2C QS 6D 4S 8H QH 4D 4C 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+8D
+
+Table 3
+6H
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+AS 3S 7C 9C JC JH 8S 9D 2S 5D 3D 10C 5H 7D 3C 9S 2H 6S 10D 7H AD 4H KD 10S 7S 10H KH 9H 
+Hand 3
+2C 2D 4C 3H 5S JD QS KC 4D QH 8H AH 8D QC 6D 5C 4S 6H KS 8C AC 6C QD JS 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+AS
+
+Table 3
+2C
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+8S JC KD 6S 9C 3D 9S 9D 7D 2S 10D 10S JH 9H 7H 7C KH 10H 4H AS AD 5H 10C 3C 5D 3S 2H 2C 7S 
+Hand 3
+2D 4C 3H 5S JD QS KC 4D QH 8H AH 8D QC 6D 5C 4S 6H KS 8C AC 6C QD JS 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+8S
+
+Table 3
+2D
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+JC KD 6S 9C 3D 9S 9D 7D 2S 10D 10S JH 9H 7H 7C KH 10H 4H AS AD 5H 10C 3C 5D 3S 2H 2C 7S 
+Hand 3
+QS AH 4D 2D 8C 6C 6H KC 8H AC 4C JS 5C 6D QH KS 5S 8S 8D JD QC 4S QD 3H 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+JC
+
+Table 3
+QS
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+7C KD 2S JC 3D 10H 9D 10D KH AD 2C 4H 9C AS 5D 2H 7H 9S QS 3C 10S JH 9H 10C 3S 7D 5H 6S 7S 
+Hand 3
+AH 4D 2D 8C 6C 6H KC 8H AC 4C JS 5C 6D QH KS 5S 8S 8D JD QC 4S QD 3H 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+7C
+
+Table 3
+AH
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+KD 2S JC 3D 10H 9D 10D KH AD 2C 4H 9C AS 5D 2H 7H 9S QS 3C 10S JH 9H 10C 3S 7D 5H 6S 7S 
+Hand 3
+QH QD 8H KS KC QC 3H 7C 6H 6D 8S AH 5C 5S 6C AC JD 8C 8D 2D 4D 4C JS 4S 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+KD
+
+Table 3
+QH
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+2S JC 3D 10H 9D 10D KH AD 2C 4H 9C AS 5D 2H 7H 9S QS 3C 10S JH 9H 10C 3S 7D 5H 6S 7S 
+Hand 3
+QC 7C 4C KC 6H 8C AC 6C 4D JS 3H 2D 5S 8D 5C 6D 4S QD KD KS 8S AH 8H QH JD 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+2S
+
+Table 3
+QC
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+5H 10C 9C QC 4H AD 10D 9S 9D 10S AS 10H 9H QS JH 5D 2S 3D 3S KH JC 7S 2C 7D 2H 3C 6S 7H 
+Hand 3
+7C 4C KC 6H 8C AC 6C 4D JS 3H 2D 5S 8D 5C 6D 4S QD KD KS 8S AH 8H QH JD 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+5H
+
+Table 3
+7C
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+QS 7D 10S 3C 5H 4H 7S 9H 2S 7C 9C 3S AS 2C 10H 10D QC 5D 2H AD 9D 9S JC 3D 7H 10C JH 6S KH 
+Hand 3
+4C KC 6H 8C AC 6C 4D JS 3H 2D 5S 8D 5C 6D 4S QD KD KS 8S AH 8H QH JD 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+QS
+
+Table 3
+4C
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+7D 10S 3C 5H 4H 7S 9H 2S 7C 9C 3S AS 2C 10H 10D QC 5D 2H AD 9D 9S JC 3D 7H 10C JH 6S KH 
+Hand 3
+QS 6C QD JD JS 4C 4S AH 8D KD 8H 8C AC KS 6D 5C 6H 3H 4D 5S KC 2D 8S QH 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+7D
+
+Table 3
+QS
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+3D AD 10C 9H 5D 2S 7H 7S 6S JC 7D QS 10D 10H 7C JH QC 3C 9D 3S 10S AS 4H 2H KH 9C 5H 9S 2C 
+Hand 3
+6C QD JD JS 4C 4S AH 8D KD 8H 8C AC KS 6D 5C 6H 3H 4D 5S KC 2D 8S QH 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+3D
+
+Table 3
+6C
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+3D 7S QS 4H 10H 7H 3C 9C 3S 6S 9H 9D 2C 10S AS 2H AD 5D JH 2S 9S 7D 10D 6C 10C QC 5H JC 7C KH 
+Hand 3
+QD JD JS 4C 4S AH 8D KD 8H 8C AC KS 6D 5C 6H 3H 4D 5S KC 2D 8S QH 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+3D
+
+Table 3
+QD
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+9D 3D 9H 5D 7S 3C 2S 3S 2H 9C 6C QS 7C QC 10C QD JH 10H 6S 7H 10D 2C 9S 7D AD JC 4H 10S KH AS 5H 
+Hand 3
+JD JS 4C 4S AH 8D KD 8H 8C AC KS 6D 5C 6H 3H 4D 5S KC 2D 8S QH 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+9D
+
+Table 3
+JD
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+KH 7S 2H JH 2S 6C 7C 9H QC 3C 10D QS AS JC 9C 10C 7H 3S AD 2C 9S 4H 10S 9D 3D 10H 5D 7D 5H JD 6S QD 
+Hand 3
+JS 4C 4S AH 8D KD 8H 8C AC KS 6D 5C 6H 3H 4D 5S KC 2D 8S QH 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+KH
+
+Table 3
+JS
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+7S 2H JH 2S 6C 7C 9H QC 3C 10D QS AS JC 9C 10C 7H 3S AD 2C 9S 4H 10S 9D 3D 10H 5D 7D 5H JD 6S QD 
+Hand 3
+AC JS 8H 4D KD 8D KS 4S 8C 5C 5S 8S 3H 4C 6H KC AH 2D KH 6D QH 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+7S
+
+Table 3
+AC
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+2H JH 2S 6C 7C 9H QC 3C 10D QS AS JC 9C 10C 7H 3S AD 2C 9S 4H 10S 9D 3D 10H 5D 7D 5H JD 6S QD 
+Hand 3
+JS 4C 7S 2D 5C KH AH KS AC 4S QH 8H KC 4D 5S 3H 6H KD 8S 8C 8D 6D 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+2H
+
+Table 3
+JS
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+6S 7C 6C 9D 4H 10S 2H 7D 9C 3S QC QS 9H JD 3C 2S 2C AD AS 5H 10H 10C QD 5D 10D JS 9S 3D JH JC 7H 
+Hand 3
+4C 7S 2D 5C KH AH KS AC 4S QH 8H KC 4D 5S 3H 6H KD 8S 8C 8D 6D 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+6S
+
+Table 3
+4C
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+7C 6C 9D 4H 10S 2H 7D 9C 3S QC QS 9H JD 3C 2S 2C AD AS 5H 10H 10C QD 5D 10D JS 9S 3D JH JC 7H 
+Hand 3
+2D KH 5C KS 8C 4C 8S 3H 6H KC 6D 7S KD 8H QH AC 6S AH 4S 8D 5S 4D 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+7C
+
+Table 3
+2D
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+6C 9D 4H 10S 2H 7D 9C 3S QC QS 9H JD 3C 2S 2C AD AS 5H 10H 10C QD 5D 10D JS 9S 3D JH JC 7H 
+Hand 3
+8H 7S 8S AH KS 3H 5C 2D 4D KH 6D AC 4C 6S QH KD 6H 7C 4S 8D 5S KC 8C 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+6C
+
+Table 3
+8H
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+3C 10S 2S 4H QC 10H AD QS 10C 3D 2H 3S 7H 9S 5D 2C JD 5H AS JC 9D QD 8H 6C JH 10D 9C JS 9H 7D 
+Hand 3
+7S 8S AH KS 3H 5C 2D 4D KH 6D AC 4C 6S QH KD 6H 7C 4S 8D 5S KC 8C 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+3C
+
+Table 3
+7S
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+7S 7D 9C 2H 4H 5H 9S 10C AS JH 3C 5D 9D 2C 2S 10D QC JD QD 6C 3S QS JS 9H 7H 3D AD 10H JC 10S 8H 
+Hand 3
+8S AH KS 3H 5C 2D 4D KH 6D AC 4C 6S QH KD 6H 7C 4S 8D 5S KC 8C 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+7S
+
+Table 3
+8S
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+JD JS 6C 9D 7S 3S JC 2H 3D 7H 2C 9S 8S 10H JH 10S 3C 9H QS 4H 7D AS 2S AD 10C QC 9C 5D QD 5H 8H 10D 
+Hand 3
+AH KS 3H 5C 2D 4D KH 6D AC 4C 6S QH KD 6H 7C 4S 8D 5S KC 8C 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+JD
+
+Table 3
+AH
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+JS 6C 9D 7S 3S JC 2H 3D 7H 2C 9S 8S 10H JH 10S 3C 9H QS 4H 7D AS 2S AD 10C QC 9C 5D QD 5H 8H 10D 
+Hand 3
+JD 8D 6D 8C 5C KC AH AC KD 6H KH 4S 3H 4D 5S 6S 7C 4C KS 2D QH 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+JS
+
+Table 3
+JD
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+6C 9D 7S 3S JC 2H 3D 7H 2C 9S 8S 10H JH 10S 3C 9H QS 4H 7D AS 2S AD 10C QC 9C 5D QD 5H 8H 10D 
+Hand 3
+8D 6D 8C 5C KC AH AC KD 6H KH 4S 3H 4D 5S 6S 7C 4C KS 2D QH 
+Hand 4
+
+
+
+Hand 1
+
+Hand 2
+6C 8S 3S 9S JD 10C 10S 3C 2H AD 3D QC JC 2C 7S 10H 4H JS 7D QD 9C 7H QS 2S 8H 9D AS 5D JH 5H 10D 9H 
+Hand 3
+8D 6D 8C 5C KC AH AC KD 6H KH 4S 3H 4D 5S 6S 7C 4C KS 2D QH 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+6C
+
+Table 3
+8D
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+7D 9D 4H 10H QC AS 9H 6C 8H 2H 2C 3S 10C QS 9S 10D JH 8S JC JS 7S QD 5D 8D 3D 7H 9C 10S 2S AD 3C JD 5H 
+Hand 3
+6D 8C 5C KC AH AC KD 6H KH 4S 3H 4D 5S 6S 7C 4C KS 2D QH 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+7D
+
+Table 3
+6D
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+9D 4H 10H QC AS 9H 6C 8H 2H 2C 3S 10C QS 9S 10D JH 8S JC JS 7S QD 5D 8D 3D 7H 9C 10S 2S AD 3C JD 5H 
+Hand 3
+5C KD 6H 4S KC KS AH 6S QH 7C AC 7D KH 2D 5S 4C 6D 4D 3H 8C 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+9D
+
+Table 3
+5C
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+4H 10H QC AS 9H 6C 8H 2H 2C 3S 10C QS 9S 10D JH 8S JC JS 7S QD 5D 8D 3D 7H 9C 10S 2S AD 3C JD 5H 
+Hand 3
+5S 6S 5C 3H 7C AH KH 4S 6D AC 8C 9D KS KD 4D 4C 2D 7D QH 6H KC 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+4H
+
+Table 3
+5S
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+10D QS 3C QD 9S 2C AS 3D JS 4H 5S JH AD 6C 5D 8D 10H 7H JC 5H 7S 8S JD 2H 3S QC 10S 10C 9C 2S 8H 9H 
+Hand 3
+6S 5C 3H 7C AH KH 4S 6D AC 8C 9D KS KD 4D 4C 2D 7D QH 6H KC 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+10D
+
+Table 3
+6S
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+QS 3C QD 9S 2C AS 3D JS 4H 5S JH AD 6C 5D 8D 10H 7H JC 5H 7S 8S JD 2H 3S QC 10S 10C 9C 2S 8H 9H 
+Hand 3
+7C 6S AC 2D 4C 10D AH 4D 6D KH 9D QH 6H 7D KC KD 3H KS 8C 4S 5C 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+QS
+
+Table 3
+7C
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+3C QD 9S 2C AS 3D JS 4H 5S JH AD 6C 5D 8D 10H 7H JC 5H 7S 8S JD 2H 3S QC 10S 10C 9C 2S 8H 9H 
+Hand 3
+4D 6H 4S 10D 4C AC 3H QS 2D 6D 9D 6S 5C 7C KD 7D QH 8C KS KH KC AH 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+3C
+
+Table 3
+4D
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+10C 3C 7S QD 5H JS 2H 10S AD 5S 5D 6C AS JH 7H 8H 3D 8D JC 9H 9S 3S 9C QC 8S 10H 2C JD 2S 4H 4D 
+Hand 3
+6H 4S 10D 4C AC 3H QS 2D 6D 9D 6S 5C 7C KD 7D QH 8C KS KH KC AH 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+10C
+
+Table 3
+6H
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+3C 7S QD 5H JS 2H 10S AD 5S 5D 6C AS JH 7H 8H 3D 8D JC 9H 9S 3S 9C QC 8S 10H 2C JD 2S 4H 4D 
+Hand 3
+9D KS 7C QS KH 6H 2D AC 7D QH 10D 6D 5C 4C 4S AH KC KD 8C 6S 3H 10C 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+3C
+
+Table 3
+9D
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+2H 8D 9S 4D 6C 9D AD 2C 9C 8H JH 10S 3C 3S QD QC 9H JS 8S AS JC 3D JD 7H 10H 5D 4H 5H 2S 7S 5S 
+Hand 3
+KS 7C QS KH 6H 2D AC 7D QH 10D 6D 5C 4C 4S AH KC KD 8C 6S 3H 10C 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+2H
+
+Table 3
+KS
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+KS 4H JH 8S 5H JD 8D 4D 3C 9C 10H 5D 9D 2S JC AS 5S AD JS 7H 10S QD 9S 9H QC 7S 2H 3S 2C 3D 8H 6C 
+Hand 3
+7C QS KH 6H 2D AC 7D QH 10D 6D 5C 4C 4S AH KC KD 8C 6S 3H 10C 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+KS
+
+Table 3
+7C
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+4H JH 8S 5H JD 8D 4D 3C 9C 10H 5D 9D 2S JC AS 5S AD JS 7H 10S QD 9S 9H QC 7S 2H 3S 2C 3D 8H 6C 
+Hand 3
+6S KH 6H AH AC KC 7C KS KD 10C 2D 4C 6D 3H QS 8C QH 7D 4S 5C 10D 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+4H
+
+Table 3
+6S
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+10H JC 5H AS 2H JS 9H 3C 3S 8H 7S 8D 6C 2S 3D AD 10S 8S 2C 5D 9S 9C 4H 4D 9D 6S JD JH 7H QD 5S QC 
+Hand 3
+KH 6H AH AC KC 7C KS KD 10C 2D 4C 6D 3H QS 8C QH 7D 4S 5C 10D 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+10H
+
+Table 3
+KH
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+QC 7H 2H 2S 2C 5D JS 3D 8D 3C AS 7S 10H 5S 3S 4D JD QD JC KH 8H 10S 6C JH 9S 8S 9H 6S AD 4H 9C 5H 9D 
+Hand 3
+6H AH AC KC 7C KS KD 10C 2D 4C 6D 3H QS 8C QH 7D 4S 5C 10D 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+QC
+
+Table 3
+6H
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+7H 2H 2S 2C 5D JS 3D 8D 3C AS 7S 10H 5S 3S 4D JD QD JC KH 8H 10S 6C JH 9S 8S 9H 6S AD 4H 9C 5H 9D 
+Hand 3
+QC KD 10C QH QS 10D 7D AC 5C KC 6H 7C 4S 6D AH 3H 4C 8C 2D KS 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+7H
+
+Table 3
+QC
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+4H 7S 2H 8S QC 5S 8D KH JD 3S 3D 5H 2S 5D 9D 3C 9S 7H 6C 9H 10H QD 9C 10S 8H AS 2C JC 4D JH JS AD 6S 
+Hand 3
+KD 10C QH QS 10D 7D AC 5C KC 6H 7C 4S 6D AH 3H 4C 8C 2D KS 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+4H
+
+Table 3
+KD
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+9D QD 7S 8S AS 8D JH 10S JD KD 5D 8H 3D 7H 6S JS 2S 2H 2C 9S 6C 3C 4D 3S 9H AD 10H 5S KH 4H 9C JC 5H QC 
+Hand 3
+10C QH QS 10D 7D AC 5C KC 6H 7C 4S 6D AH 3H 4C 8C 2D KS 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+9D
+
+Table 3
+10C
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+AS 7S 10C 9H JS 9D 3C 2S 6S QC JC 7H 10H 9C 8S 2H KD 4H AD 5D 8D 4D 5H KH QD JH 10S 2C 3D 5S 6C 9S 8H JD 3S 
+Hand 3
+QH QS 10D 7D AC 5C KC 6H 7C 4S 6D AH 3H 4C 8C 2D KS 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+AS
+
+Table 3
+QH
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+KH 9H 2C JD 4H JH 10S 8S 2S 7H 7S 3S 3C 9S 5S 5H 9D QC 8D 3D 8H JS 6C 4D 2H QD 9C 10H 10C KD AD QH AS 5D 6S JC 
+Hand 3
+QS 10D 7D AC 5C KC 6H 7C 4S 6D AH 3H 4C 8C 2D KS 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+KH
+
+Table 3
+QS
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+9H 2C JD 4H JH 10S 8S 2S 7H 7S 3S 3C 9S 5S 5H 9D QC 8D 3D 8H JS 6C 4D 2H QD 9C 10H 10C KD AD QH AS 5D 6S JC 
+Hand 3
+8C KH 3H 6H QS 4C 7C AC 4S 6D 2D 5C 10D 7D KS AH KC 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+9H
+
+Table 3
+8C
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+2C JD 4H JH 10S 8S 2S 7H 7S 3S 3C 9S 5S 5H 9D QC 8D 3D 8H JS 6C 4D 2H QD 9C 10H 10C KD AD QH AS 5D 6S JC 
+Hand 3
+4S QS KC 7D KS 5C 6H 4C KH AH 6D 3H 9H AC 10D 8C 2D 7C 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+2C
+
+Table 3
+4S
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+10C 2H 2C 3D 4S 6S 9S 7H 6C 10S 8H 5D 2S 9D QH QC 5S AD JC JH AS 4H 4D 7S JD 9C JS 3C 10H QD KD 3S 8S 5H 8D 
+Hand 3
+QS KC 7D KS 5C 6H 4C KH AH 6D 3H 9H AC 10D 8C 2D 7C 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+10C
+
+Table 3
+QS
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+JD 2S 2C 8H QS 9S 4D 7H JH 7S 6C 5S 10H JS AS 4H AD 8S KD 8D QC 6S 10S QD 3C 10C JC 3D 5H 9D 3S 4S 9C 5D 2H QH 
+Hand 3
+KC 7D KS 5C 6H 4C KH AH 6D 3H 9H AC 10D 8C 2D 7C 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+JD
+
+Table 3
+KC
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+7S 9D 6C AD 8D 5D QS QD 3C 5S QC JS KC 6S 9C 5H JC 2S 3D JD 10C AS 10S KD 2C 2H 10H 4H 4S 4D QH JH 8S 9S 3S 7H 8H 
+Hand 3
+7D KS 5C 6H 4C KH AH 6D 3H 9H AC 10D 8C 2D 7C 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+7S
+
+Table 3
+7D
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+9D 6C AD 8D 5D QS QD 3C 5S QC JS KC 6S 9C 5H JC 2S 3D JD 10C AS 10S KD 2C 2H 10H 4H 4S 4D QH JH 8S 9S 3S 7H 8H 
+Hand 3
+KS 5C 6H 4C KH AH 6D 3H 9H AC 10D 8C 2D 7C 
+Hand 4
+
+
+
+Hand 1
+
+Hand 2
+5S JC 6C 7H 2S 9D 5D JS KC QD 5H KD 4S 10C 8S 10H QC AS AD JH 4D JD QH 2C 6S 7S 3D QS 8D 2H 3C 8H 9C 10S 4H 7D 9S 3S 
+Hand 3
+KS 5C 6H 4C KH AH 6D 3H 9H AC 10D 8C 2D 7C 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+5S
+
+Table 3
+KS
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+KD KS 6S 7S JD 5D 3D QD QC 5S 4S QH AD 6C QS 2S JH 9D 10C 7H 4D 8H 10S KC 8D 7D 2H 3C 3S 10H AS 8S 4H JC 9C JS 5H 2C 9S 
+Hand 3
+5C 6H 4C KH AH 6D 3H 9H AC 10D 8C 2D 7C 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+KD
+
+Table 3
+5C
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+KS 6S 7S JD 5D 3D QD QC 5S 4S QH AD 6C QS 2S JH 9D 10C 7H 4D 8H 10S KC 8D 7D 2H 3C 3S 10H AS 8S 4H JC 9C JS 5H 2C 9S 
+Hand 3
+9H 6D 5C 10D KH AC 8C AH 7C 4C 6H 2D 3H KD 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+KS
+
+Table 3
+9H
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+6S 7S JD 5D 3D QD QC 5S 4S QH AD 6C QS 2S JH 9D 10C 7H 4D 8H 10S KC 8D 7D 2H 3C 3S 10H AS 8S 4H JC 9C JS 5H 2C 9S 
+Hand 3
+8C KH 10D 9H 2D AH 3H KD 6D 4C AC 6H KS 7C 5C 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+6S
+
+Table 3
+8C
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+JH AD AS 5S 6S 10C 10S 2H 8C 10H JD 9C JS 9S 3S QH QC 8D 3C 9D KC 6C 7S 4D 3D 4H QS 2S 5D 7H 8S 8H JC 5H 4S 2C QD 7D 
+Hand 3
+KH 10D 9H 2D AH 3H KD 6D 4C AC 6H KS 7C 5C 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+JH
+
+Table 3
+KH
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+3C KC JH 5D JD 7H 8D 8C 5H 3D 8S 4H 5S 6S AS QC 9D 7S QS QH 8H 9S AD 2S 4S 7D 10S QD KH 4D JS 10C JC 2C 2H 10H 9C 3S 6C 
+Hand 3
+10D 9H 2D AH 3H KD 6D 4C AC 6H KS 7C 5C 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+3C
+
+Table 3
+10D
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+8C 3D 7S 10C 7D 10S 6C JD KC 10D 5S 8S 9D QH 8H 3C 5D 2C 5H QS JS 9C 2S 8D QC 3S JC 4D QD 4S KH AD 2H 4H 6S JH 9S 7H 10H AS 
+Hand 3
+9H 2D AH 3H KD 6D 4C AC 6H KS 7C 5C 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+8C
+
+Table 3
+9H
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+QH 5D 6S JD AS 8S 10D 9D 3D 5H 8H 8D JC 2H KC 8C 4S JH 9S AD QD 2C JS 10H 4H 7H 2S 6C QS 5S 7S 10C 10S QC 7D KH 4D 9C 3S 9H 3C 
+Hand 3
+2D AH 3H KD 6D 4C AC 6H KS 7C 5C 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+QH
+
+Table 3
+2D
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+5D 6S JD AS 8S 10D 9D 3D 5H 8H 8D JC 2H KC 8C 4S JH 9S AD QD 2C JS 10H 4H 7H 2S 6C QS 5S 7S 10C 10S QC 7D KH 4D 9C 3S 9H 3C 
+Hand 3
+6H 3H 7C KS 4C 2D 6D QH AC AH 5C KD 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+5D
+
+Table 3
+6H
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+4H 8D 4D 10D 10C QD JC QS KH 2H KC 9D 5H 7H 10S 8H 9S 3D AD JH 7D 5D 5S 6C 9C 3S 6S JD 3C 10H 2S 8C 6H JS 8S AS QC 2C 7S 4S 9H 
+Hand 3
+3H 7C KS 4C 2D 6D QH AC AH 5C KD 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+4H
+
+Table 3
+3H
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+8D 4D 10D 10C QD JC QS KH 2H KC 9D 5H 7H 10S 8H 9S 3D AD JH 7D 5D 5S 6C 9C 3S 6S JD 3C 10H 2S 8C 6H JS 8S AS QC 2C 7S 4S 9H 
+Hand 3
+4C 7C 4H AC AH 5C KD QH 6D 3H 2D KS 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+8D
+
+Table 3
+4C
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+4D 10D 10C QD JC QS KH 2H KC 9D 5H 7H 10S 8H 9S 3D AD JH 7D 5D 5S 6C 9C 3S 6S JD 3C 10H 2S 8C 6H JS 8S AS QC 2C 7S 4S 9H 
+Hand 3
+2D 3H QH 4H 4C 8D 5C AH 6D KD KS AC 7C 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+4D
+
+Table 3
+2D
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+10D 10C QD JC QS KH 2H KC 9D 5H 7H 10S 8H 9S 3D AD JH 7D 5D 5S 6C 9C 3S 6S JD 3C 10H 2S 8C 6H JS 8S AS QC 2C 7S 4S 9H 
+Hand 3
+QH 7C 2D 3H AH AC KD 4D KS 4H 5C 8D 4C 6D 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+10D
+
+Table 3
+QH
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+10S 9H 2H 2C 8S 6S QS AD 6H 7D 5H 9D 7H 3S 5S 3D QC 2S JS 4S 10C QH 8H 8C JC JD JH KC 6C AS 9S 9C 7S 10H 5D KH 3C QD 10D 
+Hand 3
+7C 2D 3H AH AC KD 4D KS 4H 5C 8D 4C 6D 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+10S
+
+Table 3
+7C
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+9H 2H 2C 8S 6S QS AD 6H 7D 5H 9D 7H 3S 5S 3D QC 2S JS 4S 10C QH 8H 8C JC JD JH KC 6C AS 9S 9C 7S 10H 5D KH 3C QD 10D 
+Hand 3
+8D 4H 4C 2D 3H KS KD 6D AH 5C 4D AC 10S 7C 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+9H
+
+Table 3
+8D
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+2H 2C 8S 6S QS AD 6H 7D 5H 9D 7H 3S 5S 3D QC 2S JS 4S 10C QH 8H 8C JC JD JH KC 6C AS 9S 9C 7S 10H 5D KH 3C QD 10D 
+Hand 3
+4D AH 4C KS 9H 2D 5C KD 8D 6D AC 3H 7C 10S 4H 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+2H
+
+Table 3
+4D
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+AS 3S 2C 7D 3C 5D QH 4S 4D 7H 10D JS AD KC 8C 6H JC 10C KH 6C 5H 9D 5S JH 2H 2S 10H 8H QC QS 8S 7S 9S 9C QD JD 3D 6S 
+Hand 3
+AH 4C KS 9H 2D 5C KD 8D 6D AC 3H 7C 10S 4H 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+AS
+
+Table 3
+AH
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+3S 2C 7D 3C 5D QH 4S 4D 7H 10D JS AD KC 8C 6H JC 10C KH 6C 5H 9D 5S JH 2H 2S 10H 8H QC QS 8S 7S 9S 9C QD JD 3D 6S 
+Hand 3
+4C KS 9H 2D 5C KD 8D 6D AC 3H 7C 10S 4H 
+Hand 4
+
+
+
+Hand 1
+
+Hand 2
+5H 6C 7S JD 2S 2H 6H KC JH AD 8H JS JC QC 3D 9D 6S 5S 7D 7H 5D 9C 10H 8S 10C 8C 3S AS QS 9S 2C AH 4S QH KH 10D 4D QD 3C 
+Hand 3
+4C KS 9H 2D 5C KD 8D 6D AC 3H 7C 10S 4H 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+5H
+
+Table 3
+4C
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+6C 7S JD 2S 2H 6H KC JH AD 8H JS JC QC 3D 9D 6S 5S 7D 7H 5D 9C 10H 8S 10C 8C 3S AS QS 9S 2C AH 4S QH KH 10D 4D QD 3C 
+Hand 3
+8D AC 9H 4H 5H 7C 6D KS 4C 3H 2D KD 5C 10S 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+6C
+
+Table 3
+8D
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+3S JS AD 8H 2S 9D 7H 5S 10H QS 7D 3D 9C 2H 9S 7S 4S 8C 6S 8D 6C AH 8S KH AS 5D 2C 6H 4D KC QH JH QC JC 10C 10D JD 3C QD 
+Hand 3
+AC 9H 4H 5H 7C 6D KS 4C 3H 2D KD 5C 10S 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+3S
+
+Table 3
+AC
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+JS AD 8H 2S 9D 7H 5S 10H QS 7D 3D 9C 2H 9S 7S 4S 8C 6S 8D 6C AH 8S KH AS 5D 2C 6H 4D KC QH JH QC JC 10C 10D JD 3C QD 
+Hand 3
+10S 7C 4C 4H 5C AC 3S 2D KS 9H 6D 5H 3H KD 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+JS
+
+Table 3
+10S
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+AD 8H 2S 9D 7H 5S 10H QS 7D 3D 9C 2H 9S 7S 4S 8C 6S 8D 6C AH 8S KH AS 5D 2C 6H 4D KC QH JH QC JC 10C 10D JD 3C QD 
+Hand 3
+5H 3H JS 3S KD 10S 7C 5C AC 4H 4C 6D KS 9H 2D 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+AD
+
+Table 3
+5H
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+9D 4S KC 10C 3C 7S 2S 5H QS 8D KH QD 5S JC JD 2H AS 6S 7D 10D QH 6H 3D QC JH 9C 4D 9S 10H AH AD 8H 5D 8C 8S 2C 7H 6C 
+Hand 3
+3H JS 3S KD 10S 7C 5C AC 4H 4C 6D KS 9H 2D 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+9D
+
+Table 3
+3H
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+4S KC 10C 3C 7S 2S 5H QS 8D KH QD 5S JC JD 2H AS 6S 7D 10D QH 6H 3D QC JH 9C 4D 9S 10H AH AD 8H 5D 8C 8S 2C 7H 6C 
+Hand 3
+6D 4C 4H 10S JS 5C 9D KS KD 3S 2D AC 7C 9H 3H 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+4S
+
+Table 3
+6D
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+3C 3D 10H 2C 2H 5S 8S 4S 5H QC 9S 7S 10C JH 6S 6D 9C 6C 10D 7D 8C QH 7H 5D AH AS 8H 8D 2S QS QD KC KH JC AD 4D 6H JD 
+Hand 3
+4C 4H 10S JS 5C 9D KS KD 3S 2D AC 7C 9H 3H 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+3C
+
+Table 3
+4C
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+QD 10C 8C 4C AD 3C 9S 7D 8H 5S 2S 4S 6C JD 2C 2H 7S 10D 10H 7H KC 8S KH 9C AS 4D JC 5H QH 6D QS 5D AH 8D JH 3D 6S 6H QC 
+Hand 3
+4H 10S JS 5C 9D KS KD 3S 2D AC 7C 9H 3H 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+QD
+
+Table 3
+4H
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+10C 8C 4C AD 3C 9S 7D 8H 5S 2S 4S 6C JD 2C 2H 7S 10D 10H 7H KC 8S KH 9C AS 4D JC 5H QH 6D QS 5D AH 8D JH 3D 6S 6H QC 
+Hand 3
+9H 5C KS AC 2D 9D JS 4H QD 3H 3S 7C 10S KD 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+10C
+
+Table 3
+9H
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+8C 4C AD 3C 9S 7D 8H 5S 2S 4S 6C JD 2C 2H 7S 10D 10H 7H KC 8S KH 9C AS 4D JC 5H QH 6D QS 5D AH 8D JH 3D 6S 6H QC 
+Hand 3
+3H 10C 10S 5C 9D AC 4H 7C 9H KD 3S JS 2D KS QD 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+8C
+
+Table 3
+3H
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+4C AD 3C 9S 7D 8H 5S 2S 4S 6C JD 2C 2H 7S 10D 10H 7H KC 8S KH 9C AS 4D JC 5H QH 6D QS 5D AH 8D JH 3D 6S 6H QC 
+Hand 3
+9H 5C JS 2D AC 7C 10S 9D 8C 3H KD QD 3S 4H KS 10C 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+4C
+
+Table 3
+9H
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+AD 7D 10H 2S 6H 8H 9S 5D AS QC 6D 3D 4S JC 3C QS QH 7H KH 6S 8D 5H 4C 8S KC 6C 5S 7S 9H 2H 9C 10D JH JD 2C 4D AH 
+Hand 3
+5C JS 2D AC 7C 10S 9D 8C 3H KD QD 3S 4H KS 10C 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+AD
+
+Table 3
+5C
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+4S 4D 6C 10H 7D AD JC 6S QS 6H QC JH 3D 3C 2C 5C 8S KH 2H 2S 5H 9H 9C 5D KC JD 5S 10D 8H 9S AS 7H 4C 6D AH 8D QH 7S 
+Hand 3
+JS 2D AC 7C 10S 9D 8C 3H KD QD 3S 4H KS 10C 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+4S
+
+Table 3
+JS
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+5H 6S 10H KH QH 10D JH 7H 7S AH 3D 5S 6C 5C 6D 2H 2S JS 4C AD 8H 8S JD 5D 9H 9S QS 4D 9C 6H JC 2C 4S 8D 7D AS QC 3C KC 
+Hand 3
+2D AC 7C 10S 9D 8C 3H KD QD 3S 4H KS 10C 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+5H
+
+Table 3
+2D
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+6S 10H KH QH 10D JH 7H 7S AH 3D 5S 6C 5C 6D 2H 2S JS 4C AD 8H 8S JD 5D 9H 9S QS 4D 9C 6H JC 2C 4S 8D 7D AS QC 3C KC 
+Hand 3
+4H 3H QD 9D 10S 10C 8C KS 3S AC KD 2D 5H 7C 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+6S
+
+Table 3
+4H
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+10H KH QH 10D JH 7H 7S AH 3D 5S 6C 5C 6D 2H 2S JS 4C AD 8H 8S JD 5D 9H 9S QS 4D 9C 6H JC 2C 4S 8D 7D AS QC 3C KC 
+Hand 3
+4H 2D AC 9D KS KD QD 8C 3H 3S 10C 6S 5H 10S 7C 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+10H
+
+Table 3
+4H
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+KH QH 10D JH 7H 7S AH 3D 5S 6C 5C 6D 2H 2S JS 4C AD 8H 8S JD 5D 9H 9S QS 4D 9C 6H JC 2C 4S 8D 7D AS QC 3C KC 
+Hand 3
+KS 8C QD 4H 10C 9D 6S KD 10S 10H AC 3H 2D 5H 3S 7C 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+KH
+
+Table 3
+KS
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+QH 10D JH 7H 7S AH 3D 5S 6C 5C 6D 2H 2S JS 4C AD 8H 8S JD 5D 9H 9S QS 4D 9C 6H JC 2C 4S 8D 7D AS QC 3C KC 
+Hand 3
+8C QD 4H 10C 9D 6S KD 10S 10H AC 3H 2D 5H 3S 7C 
+Hand 4
+
+
+
+Hand 1
+
+Hand 2
+QH 9S QC AD 10D 5S 4S JC JS 5C 8D QS KS AS 2S 2C 4D 7D JH 3C AH JD 2H 7H 7S 6C 3D 5D 6D 8S KH KC 6H 9H 8H 4C 9C 
+Hand 3
+8C QD 4H 10C 9D 6S KD 10S 10H AC 3H 2D 5H 3S 7C 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+QH
+
+Table 3
+8C
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+9S QC AD 10D 5S 4S JC JS 5C 8D QS KS AS 2S 2C 4D 7D JH 3C AH JD 2H 7H 7S 6C 3D 5D 6D 8S KH KC 6H 9H 8H 4C 9C 
+Hand 3
+AC QD 10H 3H 10C 10S 7C 9D 2D 3S 6S KD QH 4H 8C 5H 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+9S
+
+Table 3
+AC
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+QC AD 10D 5S 4S JC JS 5C 8D QS KS AS 2S 2C 4D 7D JH 3C AH JD 2H 7H 7S 6C 3D 5D 6D 8S KH KC 6H 9H 8H 4C 9C 
+Hand 3
+10S 10C 10H 2D 4H 6S AC 8C QD 7C 3H 5H KD 3S 9S 9D QH 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+QC
+
+Table 3
+10S
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+AD 10D 5S 4S JC JS 5C 8D QS KS AS 2S 2C 4D 7D JH 3C AH JD 2H 7H 7S 6C 3D 5D 6D 8S KH KC 6H 9H 8H 4C 9C 
+Hand 3
+QC 5H 3S QH 9D 2D KD 7C AC 4H 10C 10H 10S 8C 9S QD 3H 6S 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+AD
+
+Table 3
+QC
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+QS 7H JD 5D 3D AH 6H 6C KH 10D 8H 4S 6D KS KC 4C 8S JH AD 7D QC 7S 2H 5C 2S 9H 5S 8D JS 3C AS 2C JC 4D 9C 
+Hand 3
+5H 3S QH 9D 2D KD 7C AC 4H 10C 10H 10S 8C 9S QD 3H 6S 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+QS
+
+Table 3
+5H
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+7H JD 5D 3D AH 6H 6C KH 10D 8H 4S 6D KS KC 4C 8S JH AD 7D QC 7S 2H 5C 2S 9H 5S 8D JS 3C AS 2C JC 4D 9C 
+Hand 3
+5H 8C 9S 10S KD 4H 7C 9D 3H 10C 6S 3S QD 10H QH QS AC 2D 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+7H
+
+Table 3
+5H
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+JD 5D 3D AH 6H 6C KH 10D 8H 4S 6D KS KC 4C 8S JH AD 7D QC 7S 2H 5C 2S 9H 5S 8D JS 3C AS 2C JC 4D 9C 
+Hand 3
+5H QS AC 2D KD 10S 8C QD 4H 10C 9S 7H 3S 7C 6S 3H 9D 10H QH 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+JD
+
+Table 3
+5H
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+5D 3D AH 6H 6C KH 10D 8H 4S 6D KS KC 4C 8S JH AD 7D QC 7S 2H 5C 2S 9H 5S 8D JS 3C AS 2C JC 4D 9C 
+Hand 3
+9S 7H 10C 8C 6S 2D 4H JD 10H QS 3S AC 10S QD KD 5H 3H QH 9D 7C 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+5D
+
+Table 3
+9S
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+KS 10D JS 6D 9H QC KC 8H 8S 5S 4D 6C 5D 5C 7S 2C 4S 6H 7D KH 8D 4C AS 9S 3C AD JH JC AH 9C 3D 2H 2S 
+Hand 3
+7H 10C 8C 6S 2D 4H JD 10H QS 3S AC 10S QD KD 5H 3H QH 9D 7C 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+KS
+
+Table 3
+7H
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+10D JS 6D 9H QC KC 8H 8S 5S 4D 6C 5D 5C 7S 2C 4S 6H 7D KH 8D 4C AS 9S 3C AD JH JC AH 9C 3D 2H 2S 
+Hand 3
+10C 5H QS AC 8C 10H KS 7C 4H QD 2D 3H 10S 6S 7H JD 9D 3S QH KD 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+10D
+
+Table 3
+10C
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+JS 6D 9H QC KC 8H 8S 5S 4D 6C 5D 5C 7S 2C 4S 6H 7D KH 8D 4C AS 9S 3C AD JH JC AH 9C 3D 2H 2S 
+Hand 3
+5H QS AC 8C 10H KS 7C 4H QD 2D 3H 10S 6S 7H JD 9D 3S QH KD 
+Hand 4
+
+
+
+Hand 1
+
+Hand 2
+10D AH 3C 2C 8S 2H QC KH 5S JH 8D 4C 4S 9S 4D 5C 6H 3D 6D 10C 8H JS 7S AS KC 9C 6C 2S 9H AD 5D JC 7D 
+Hand 3
+5H QS AC 8C 10H KS 7C 4H QD 2D 3H 10S 6S 7H JD 9D 3S QH KD 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+10D
+
+Table 3
+5H
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+AH 3C 2C 8S 2H QC KH 5S JH 8D 4C 4S 9S 4D 5C 6H 3D 6D 10C 8H JS 7S AS KC 9C 6C 2S 9H AD 5D JC 7D 
+Hand 3
+QS 3H 6S 10S AC 10D 5H QH 2D 7H 9D 8C JD KD 7C KS 3S 4H 10H QD 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+AH
+
+Table 3
+QS
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+9H 5D KH 7S 2H 4S 3D AH 9S JS 5S QC 6D JC AD 4D 8D 6H 3C 7D 4C 8S 2S JH 6C KC 2C 9C 5C AS 8H QS 10C 
+Hand 3
+3H 6S 10S AC 10D 5H QH 2D 7H 9D 8C JD KD 7C KS 3S 4H 10H QD 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+9H
+
+Table 3
+3H
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+5D KH 7S 2H 4S 3D AH 9S JS 5S QC 6D JC AD 4D 8D 6H 3C 7D 4C 8S 2S JH 6C KC 2C 9C 5C AS 8H QS 10C 
+Hand 3
+9D 10D 2D 3H 9H 6S KS 8C AC QH 7C QD 4H 10S 5H 10H JD 7H 3S KD 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+5D
+
+Table 3
+9D
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+AS 2H 8H 7D 3C 6D AH 8D 5S 7S QS 6H 3D 6C KC 10C 4S 9S 2S 4C 2C JS JC 9D QC 9C 4D AD 5C 8S JH 5D KH 
+Hand 3
+10D 2D 3H 9H 6S KS 8C AC QH 7C QD 4H 10S 5H 10H JD 7H 3S KD 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+AS
+
+Table 3
+10D
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+KC 7D JS 5D 4C AS 9D AD 5C 2C 5S AH QC JH QS 2S KH 9C 10D 4D 10C 6D 4S 3D 8H 6C 9S 6H 8D 2H 7S 3C 8S JC 
+Hand 3
+2D 3H 9H 6S KS 8C AC QH 7C QD 4H 10S 5H 10H JD 7H 3S KD 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+KC
+
+Table 3
+2D
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+7D JS 5D 4C AS 9D AD 5C 2C 5S AH QC JH QS 2S KH 9C 10D 4D 10C 6D 4S 3D 8H 6C 9S 6H 8D 2H 7S 3C 8S JC 
+Hand 3
+QD 4H 3H 10S 8C 7H KD 7C 2D JD KC 3S 6S QH 9H AC 10H 5H KS 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+7D
+
+Table 3
+QD
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+QC 9S AD 4S 6H 8D 6D 4C 9C JH 9D 2H JS 5S AH 7D QD 3C KH 8S 6C 8H 5C 7S 4D 2C AS 10D 5D 3D 2S JC QS 10C 
+Hand 3
+4H 3H 10S 8C 7H KD 7C 2D JD KC 3S 6S QH 9H AC 10H 5H KS 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+QC
+
+Table 3
+4H
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+9S AD 4S 6H 8D 6D 4C 9C JH 9D 2H JS 5S AH 7D QD 3C KH 8S 6C 8H 5C 7S 4D 2C AS 10D 5D 3D 2S JC QS 10C 
+Hand 3
+KD QH KS 6S AC 10H 10S 9H KC JD 2D 3S 7H 8C 7C 3H 5H QC 4H 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+9S
+
+Table 3
+KD
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+3D JC 4C AH 8S AS 5C 7D 8H 6C 5D 2C JS 3C 7S 6D JH 4D KD 9D KH 6H 10C 10D 8D 5S 2S 9S QS AD 2H QD 4S 9C 
+Hand 3
+QH KS 6S AC 10H 10S 9H KC JD 2D 3S 7H 8C 7C 3H 5H QC 4H 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+3D
+
+Table 3
+QH
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+5C JH 8S 7S JC 8H 4S 9C 5S 6D KH 7D 3D 10C QS 8D 3C 2H QH 10D 2C QD AH 6H 2S KD JS 9D 9S 5D 4D AD 4C 6C AS 
+Hand 3
+KS 6S AC 10H 10S 9H KC JD 2D 3S 7H 8C 7C 3H 5H QC 4H 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+5C
+
+Table 3
+KS
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+KD KH 8D 10D 7S 3D 2H 8S 9C 9S JS 10C 4D 2S KS JH 4C QH AH 6C 5C 8H 2C 9D QS 3C AD 6H JC 7D AS 5D QD 6D 4S 5S 
+Hand 3
+6S AC 10H 10S 9H KC JD 2D 3S 7H 8C 7C 3H 5H QC 4H 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+KD
+
+Table 3
+6S
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+KH 8D 10D 7S 3D 2H 8S 9C 9S JS 10C 4D 2S KS JH 4C QH AH 6C 5C 8H 2C 9D QS 3C AD 6H JC 7D AS 5D QD 6D 4S 5S 
+Hand 3
+AC 7H 10H 3H 9H KC 4H KD 8C 3S JD 5H 7C 2D 6S 10S QC 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+KH
+
+Table 3
+AC
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+8D 10D 7S 3D 2H 8S 9C 9S JS 10C 4D 2S KS JH 4C QH AH 6C 5C 8H 2C 9D QS 3C AD 6H JC 7D AS 5D QD 6D 4S 5S 
+Hand 3
+KH 4H 2D KC KD 10H 6S JD AC 7H QC 7C 8C 5H 10S 9H 3H 3S 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+8D
+
+Table 3
+KH
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+KS AH 10C AD 5S KH 9C 4S 6C 2S 8S 8D QD JH 4D 5C 3D JS 7D 8H 6H QS QH 10D 2H JC 9D AS 4C 3C 9S 2C 5D 6D 7S 
+Hand 3
+4H 2D KC KD 10H 6S JD AC 7H QC 7C 8C 5H 10S 9H 3H 3S 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+KS
+
+Table 3
+4H
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+AH 10C AD 5S KH 9C 4S 6C 2S 8S 8D QD JH 4D 5C 3D JS 7D 8H 6H QS QH 10D 2H JC 9D AS 4C 3C 9S 2C 5D 6D 7S 
+Hand 3
+10S AC 4H 3H KS 6S KC 10H 3S 5H 8C KD 7H JD 2D 7C 9H QC 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+AH
+
+Table 3
+10S
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+JS 6H AH QH KH 8H AS 4C 5S 10C 3C 4D 2S QD 2C JC 7D 6D JH 3D QS 10D 8D 4S 5C 2H 9S 9D 8S 9C 6C 7S 5D 10S AD 
+Hand 3
+AC 4H 3H KS 6S KC 10H 3S 5H 8C KD 7H JD 2D 7C 9H QC 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+JS
+
+Table 3
+AC
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+6H AH QH KH 8H AS 4C 5S 10C 3C 4D 2S QD 2C JC 7D 6D JH 3D QS 10D 8D 4S 5C 2H 9S 9D 8S 9C 6C 7S 5D 10S AD 
+Hand 3
+QC KC JS 6S JD 10H 7H 2D 8C 5H 9H 3H 4H AC 7C KS 3S KD 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+6H
+
+Table 3
+QC
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+4D 6C 8S 5S JH 10D 6D QC 2C KH JC 9S 6H QS 2S 3D 10S 7S QH 5D 8H 8D 4S AH QD 2H 10C 5C 9C 4C 3C AD 9D AS 7D 
+Hand 3
+KC JS 6S JD 10H 7H 2D 8C 5H 9H 3H 4H AC 7C KS 3S KD 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+4D
+
+Table 3
+KC
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+4C JC 9C 8D 10D 8S 2C 6H QH 4D KC KH QS 10S 2H QD AS 10C 5S 7S AH JH 6C 2S QC 6D 8H 5D 3D 4S 9S 5C 7D 9D 3C AD 
+Hand 3
+JS 6S JD 10H 7H 2D 8C 5H 9H 3H 4H AC 7C KS 3S KD 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+4C
+
+Table 3
+JS
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+AH 2H 9C 4D 7S 9S QS 2C JH 4C 8H QH AD 9D 7D 3C QC KC 3D KH JC QD 6D 8D 6H 8S AS 5C 10S JS 2S 5S 6C 4S 10C 10D 5D 
+Hand 3
+6S JD 10H 7H 2D 8C 5H 9H 3H 4H AC 7C KS 3S KD 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+AH
+
+Table 3
+6S
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+9S QH 6C 8D 3D JH 5C 5D 8H KC 2H 10D QD 5S QS QC 4D AD 4S 3C 7D 6D 9C 7S 2S 4C 6H 8S AS AH KH 6S 2C 10C 9D JS JC 10S 
+Hand 3
+JD 10H 7H 2D 8C 5H 9H 3H 4H AC 7C KS 3S KD 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+9S
+
+Table 3
+JD
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+QS 5D JS 9C 3C 6H JD 8H 7D 6D 7S 10D QC AS JH 8S 4S 5C QH 2H 8D 10S 4D JC 2C KH 9S 9D 2S 3D 6S 5S AH 6C 4C KC AD 10C QD 
+Hand 3
+10H 7H 2D 8C 5H 9H 3H 4H AC 7C KS 3S KD 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+QS
+
+Table 3
+10H
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+5D JS 9C 3C 6H JD 8H 7D 6D 7S 10D QC AS JH 8S 4S 5C QH 2H 8D 10S 4D JC 2C KH 9S 9D 2S 3D 6S 5S AH 6C 4C KC AD 10C QD 
+Hand 3
+8C 7H 3S QS 7C 5H 3H KS 2D 4H 10H 9H AC KD 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+5D
+
+Table 3
+8C
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+JC 9S 6C 7S 10D 2H AD 8S 6D 5D 3D 4C 2C 3C JH 8H JD 6S 10C 8D 4D 4S QH AH 9C AS 9D KC 7D 10S 6H JS KH 5S QC 5C 2S 8C QD 
+Hand 3
+7H 3S QS 7C 5H 3H KS 2D 4H 10H 9H AC KD 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+JC
+
+Table 3
+7H
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+9S 6C 7S 10D 2H AD 8S 6D 5D 3D 4C 2C 3C JH 8H JD 6S 10C 8D 4D 4S QH AH 9C AS 9D KC 7D 10S 6H JS KH 5S QC 5C 2S 8C QD 
+Hand 3
+KS 4H 9H AC 7C 3S QS 5H 3H 7H JC 2D 10H KD 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+9S
+
+Table 3
+KS
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+KS 6H 7S 6C 4S 8C QD 6S JS QH JH KC 3D 8H AS 2C JD 4C 5S 8S 10D AD 2S 10S 6D 9D AH 5D 3C 9C 4D 8D 10C KH 2H QC 9S 5C 7D 
+Hand 3
+4H 9H AC 7C 3S QS 5H 3H 7H JC 2D 10H KD 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+KS
+
+Table 3
+4H
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+6H 7S 6C 4S 8C QD 6S JS QH JH KC 3D 8H AS 2C JD 4C 5S 8S 10D AD 2S 10S 6D 9D AH 5D 3C 9C 4D 8D 10C KH 2H QC 9S 5C 7D 
+Hand 3
+5H JC QS 4H 9H 3S KS 3H AC 7C 10H KD 7H 2D 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+6H
+
+Table 3
+5H
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+7S 6C 4S 8C QD 6S JS QH JH KC 3D 8H AS 2C JD 4C 5S 8S 10D AD 2S 10S 6D 9D AH 5D 3C 9C 4D 8D 10C KH 2H QC 9S 5C 7D 
+Hand 3
+JC 9H 7H 4H AC 3S 3H 2D 6H 7C 10H 5H KD KS QS 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+7S
+
+Table 3
+JC
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+4S AD 10S 2S AS 2C 5C 10D 3C JS 8H 8D 2H KC 7S 4C 5D 9C 9D 5S QC 6C QH QD 3D 8C AH JC KH 4D 10C 7D 6S JH 9S JD 8S 6D 
+Hand 3
+9H 7H 4H AC 3S 3H 2D 6H 7C 10H 5H KD KS QS 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+4S
+
+Table 3
+9H
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+9D 4S 2H 3C JH 2C 5D 4D 5S KH 9H AS 7S 10D 2S 8S 5C 8C 6D QD JD 9S 9C 8H 7D QC AD 8D JC JS 10S QH 6S 6C KC 3D AH 4C 10C 
+Hand 3
+7H 4H AC 3S 3H 2D 6H 7C 10H 5H KD KS QS 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+9D
+
+Table 3
+7H
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+4S 2H 3C JH 2C 5D 4D 5S KH 9H AS 7S 10D 2S 8S 5C 8C 6D QD JD 9S 9C 8H 7D QC AD 8D JC JS 10S QH 6S 6C KC 3D AH 4C 10C 
+Hand 3
+4H 9D 6H QS 2D 3H 7H 10H 5H 7C KD 3S AC KS 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+4S
+
+Table 3
+4H
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+2H 3C JH 2C 5D 4D 5S KH 9H AS 7S 10D 2S 8S 5C 8C 6D QD JD 9S 9C 8H 7D QC AD 8D JC JS 10S QH 6S 6C KC 3D AH 4C 10C 
+Hand 3
+9D 6H QS 2D 3H 7H 10H 5H 7C KD 3S AC KS 
+Hand 4
+
+
+
+Hand 1
+
+Hand 2
+JS 5D 9S 10D 9H 3D 10S 10C 2C 4H 6D 4C QH 7D JD AH 5C 3C 2S AS 4D 6S 8C 2H 8H 4S 6C 9C 7S 5S QD KC JH AD 8S 8D QC KH JC 
+Hand 3
+9D 6H QS 2D 3H 7H 10H 5H 7C KD 3S AC KS 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+JS
+
+Table 3
+9D
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+5D 9S 10D 9H 3D 10S 10C 2C 4H 6D 4C QH 7D JD AH 5C 3C 2S AS 4D 6S 8C 2H 8H 4S 6C 9C 7S 5S QD KC JH AD 8S 8D QC KH JC 
+Hand 3
+3S KS 5H 3H 6H 10H QS 7C KD 2D JS 9D AC 7H 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+5D
+
+Table 3
+3S
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+9S 10D 9H 3D 10S 10C 2C 4H 6D 4C QH 7D JD AH 5C 3C 2S AS 4D 6S 8C 2H 8H 4S 6C 9C 7S 5S QD KC JH AD 8S 8D QC KH JC 
+Hand 3
+5H 7H JS 6H KD 3S 7C 10H QS 9D 2D KS AC 5D 3H 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+9S
+
+Table 3
+5H
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+10D 9H 3D 10S 10C 2C 4H 6D 4C QH 7D JD AH 5C 3C 2S AS 4D 6S 8C 2H 8H 4S 6C 9C 7S 5S QD KC JH AD 8S 8D QC KH JC 
+Hand 3
+7C 5H 10H 3H 5D JS 2D AC QS 3S 9D 9S 7H KS 6H KD 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+10D
+
+Table 3
+7C
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+9H 3D 10S 10C 2C 4H 6D 4C QH 7D JD AH 5C 3C 2S AS 4D 6S 8C 2H 8H 4S 6C 9C 7S 5S QD KC JH AD 8S 8D QC KH JC 
+Hand 3
+9D 3H 5D 9S 10H AC JS KS 7C 3S 2D 10D 5H 7H KD 6H QS 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+9H
+
+Table 3
+9D
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+3D 10S 10C 2C 4H 6D 4C QH 7D JD AH 5C 3C 2S AS 4D 6S 8C 2H 8H 4S 6C 9C 7S 5S QD KC JH AD 8S 8D QC KH JC 
+Hand 3
+3H 5D 9S 10H AC JS KS 7C 3S 2D 10D 5H 7H KD 6H QS 
+Hand 4
+
+
+
+Hand 1
+
+Hand 2
+8D AH 9H 4C 8S JD QC QD 9D 4S 3C AD KH 8H 6S JC 10S 9C 10C JH 7D 2S 6D 2H 7S QH 2C 4D 5C KC 6C AS 5S 4H 8C 3D 
+Hand 3
+3H 5D 9S 10H AC JS KS 7C 3S 2D 10D 5H 7H KD 6H QS 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+8D
+
+Table 3
+3H
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+AH 9H 4C 8S JD QC QD 9D 4S 3C AD KH 8H 6S JC 10S 9C 10C JH 7D 2S 6D 2H 7S QH 2C 4D 5C KC 6C AS 5S 4H 8C 3D 
+Hand 3
+5D 5H 3S 6H 2D 10D JS 8D 3H 7C QS KD 7H KS AC 9S 10H 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+AH
+
+Table 3
+5D
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+AS 6D 10S 2S QC 6S 3C JH 9D 10C QH 4C 7D 5D 8S 5S 7S 6C JC QD 8C 4S 9C 2C 8H KH 5C 4D 3D 2H AH 4H AD 9H KC JD 
+Hand 3
+5H 3S 6H 2D 10D JS 8D 3H 7C QS KD 7H KS AC 9S 10H 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+AS
+
+Table 3
+5H
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+9H KC JH 9C 6C KH 7D 4D AS 5H JC 3D QC JD 10C 5S 3C 4C AD 7S 2C 8C 9D 4S 5C 2S 5D 6S QH 4H AH QD 8S 10S 2H 6D 8H 
+Hand 3
+3S 6H 2D 10D JS 8D 3H 7C QS KD 7H KS AC 9S 10H 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+9H
+
+Table 3
+3S
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+KC JH 9C 6C KH 7D 4D AS 5H JC 3D QC JD 10C 5S 3C 4C AD 7S 2C 8C 9D 4S 5C 2S 5D 6S QH 4H AH QD 8S 10S 2H 6D 8H 
+Hand 3
+KS 9S 2D 7C AC 8D 7H 9H 3S JS 10H KD QS 3H 10D 6H 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+KC
+
+Table 3
+KS
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+JH 9C 6C KH 7D 4D AS 5H JC 3D QC JD 10C 5S 3C 4C AD 7S 2C 8C 9D 4S 5C 2S 5D 6S QH 4H AH QD 8S 10S 2H 6D 8H 
+Hand 3
+9S 2D 7C AC 8D 7H 9H 3S JS 10H KD QS 3H 10D 6H 
+Hand 4
+
+
+
+Hand 1
+
+Hand 2
+4H 8H KC 2H JD KS JC AD 2S 5H 6C 5C 10C 4C QC 7D 9C 9D 5D 8S 3C 5S 7S 2C QD 3D AS 6S KH QH 4D JH AH 6D 8C 4S 10S 
+Hand 3
+9S 2D 7C AC 8D 7H 9H 3S JS 10H KD QS 3H 10D 6H 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+4H
+
+Table 3
+9S
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+2H 8S 7D AH QH 6D 3D 4S 5H 3C KS QD 10C KH 4D 5S 6S 9C 5C 7S 9S 4C KC QC 6C 9D 2C JC 2S JH 5D AS 10S 8C 8H AD 4H JD 
+Hand 3
+2D 7C AC 8D 7H 9H 3S JS 10H KD QS 3H 10D 6H 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+2H
+
+Table 3
+2D
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+8S 7D AH QH 6D 3D 4S 5H 3C KS QD 10C KH 4D 5S 6S 9C 5C 7S 9S 4C KC QC 6C 9D 2C JC 2S JH 5D AS 10S 8C 8H AD 4H JD 
+Hand 3
+7C AC 8D 7H 9H 3S JS 10H KD QS 3H 10D 6H 
+Hand 4
+
+
+
+Hand 1
+
+Hand 2
+4S 7S QD 9S 2C 4D 3D 3C 2S 10S AD 7D 5H KH 9C 10C 6S JC KS QC 4C 8S 6C 2H JH 9D AS 2D 5S 4H 5C JD 8H 5D 6D AH KC 8C QH 
+Hand 3
+7C AC 8D 7H 9H 3S JS 10H KD QS 3H 10D 6H 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+4S
+
+Table 3
+7C
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+7C JD AD 9S KC 10S 6S 8S 3D 5D 9D 6D 4C QH QC 2D KS 9C AS 8C 2C 5S 5C 6C 4H QD KH 3C 7S 5H JH 2H 8H 4S JC AH 7D 2S 10C 4D 
+Hand 3
+AC 8D 7H 9H 3S JS 10H KD QS 3H 10D 6H 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+7C
+
+Table 3
+AC
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+JD AD 9S KC 10S 6S 8S 3D 5D 9D 6D 4C QH QC 2D KS 9C AS 8C 2C 5S 5C 6C 4H QD KH 3C 7S 5H JH 2H 8H 4S JC AH 7D 2S 10C 4D 
+Hand 3
+KD 3S 7H AC 8D JS 9H 10H 7C 6H 10D 3H QS 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+JD
+
+Table 3
+KD
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+5H 2S 6D 9D JD 4C KH 9C 3D 5C 5S 7S QC 2H 2C 3C KC 6S KD 4S 10C 7D AD AH JC 8S QH 2D 8C KS 4D QD AS 8H 10S 4H 6C JH 9S 5D 
+Hand 3
+3S 7H AC 8D JS 9H 10H 7C 6H 10D 3H QS 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+5H
+
+Table 3
+3S
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+2S 6D 9D JD 4C KH 9C 3D 5C 5S 7S QC 2H 2C 3C KC 6S KD 4S 10C 7D AD AH JC 8S QH 2D 8C KS 4D QD AS 8H 10S 4H 6C JH 9S 5D 
+Hand 3
+AC 7C QS 10D 5H 9H 3H 6H 10H 7H 3S 8D JS 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+2S
+
+Table 3
+AC
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+6D 9D JD 4C KH 9C 3D 5C 5S 7S QC 2H 2C 3C KC 6S KD 4S 10C 7D AD AH JC 8S QH 2D 8C KS 4D QD AS 8H 10S 4H 6C JH 9S 5D 
+Hand 3
+5H JS AC 3H QS 10H 7C 9H 2S 8D 6H 7H 3S 10D 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+6D
+
+Table 3
+5H
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+9D JD 4C KH 9C 3D 5C 5S 7S QC 2H 2C 3C KC 6S KD 4S 10C 7D AD AH JC 8S QH 2D 8C KS 4D QD AS 8H 10S 4H 6C JH 9S 5D 
+Hand 3
+5H 8D 10H 2S 3H JS 9H AC 3S 7C 6H 7H 10D 6D QS 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+9D
+
+Table 3
+5H
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+JD 4C KH 9C 3D 5C 5S 7S QC 2H 2C 3C KC 6S KD 4S 10C 7D AD AH JC 8S QH 2D 8C KS 4D QD AS 8H 10S 4H 6C JH 9S 5D 
+Hand 3
+6D 3S 9D 6H 3H AC QS 7H 9H JS 2S 8D 5H 10H 10D 7C 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+JD
+
+Table 3
+6D
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+4C KH 9C 3D 5C 5S 7S QC 2H 2C 3C KC 6S KD 4S 10C 7D AD AH JC 8S QH 2D 8C KS 4D QD AS 8H 10S 4H 6C JH 9S 5D 
+Hand 3
+9H QS JS 10D 6H JD 10H 2S 3H 7H 8D 5H 7C 3S 9D AC 6D 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+4C
+
+Table 3
+9H
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+7D 6S KH AD AH 10S KS AS 9H 4H 5D 4S 2H QH QC 10C KD JH 9S 7S 8C 5C KC 3C 5S 8S 9C 8H 6C 4C 2C QD 4D 3D 2D JC 
+Hand 3
+QS JS 10D 6H JD 10H 2S 3H 7H 8D 5H 7C 3S 9D AC 6D 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+7D
+
+Table 3
+QS
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+3C 4S 4C 5C QH 5D KD 8H AS JH KH 7S QD 10C QS 7D 6S 2C QC 2D 5S 3D AD 8S 6C KS 9S KC 2H 9C 10S 9H 8C 4D 4H JC AH 
+Hand 3
+JS 10D 6H JD 10H 2S 3H 7H 8D 5H 7C 3S 9D AC 6D 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+3C
+
+Table 3
+JS
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+8S 8H QD JH 5C KC 5S JC KH 9S 4C KD 3D 2D AH JS QC 5D 10S AS 9H KS 4D 7S 7D 9C 4S 10C 4H 2C 2H 3C 8C 6C AD QH 6S QS 
+Hand 3
+10D 6H JD 10H 2S 3H 7H 8D 5H 7C 3S 9D AC 6D 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+8S
+
+Table 3
+10D
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+9S 2C JH 10D QD QH 5S 8H 10C 8S 4S JS 2H 6C 8C 4H AS 2D 10S KS QC QS 4D AD 3D 7D 9C KC JC 4C KD 5D KH 6S AH 9H 5C 3C 7S 
+Hand 3
+6H JD 10H 2S 3H 7H 8D 5H 7C 3S 9D AC 6D 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+9S
+
+Table 3
+6H
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+2C JH 10D QD QH 5S 8H 10C 8S 4S JS 2H 6C 8C 4H AS 2D 10S KS QC QS 4D AD 3D 7D 9C KC JC 4C KD 5D KH 6S AH 9H 5C 3C 7S 
+Hand 3
+3H 3S AC 9D 8D 9S 5H 7C 6H 10H 2S 6D 7H JD 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+2C
+
+Table 3
+3H
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+8C 3C 6S 9C 4S 6C AH 8S JS KH QC AD 5C KS 2C QS 8H 3D 4C JH KD AS 4D KC QH 2H 10C 5D 2D 9H 4H 10D 7S 10S 3H 5S JC 7D QD 
+Hand 3
+3S AC 9D 8D 9S 5H 7C 6H 10H 2S 6D 7H JD 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+8C
+
+Table 3
+3S
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+3C 6S 9C 4S 6C AH 8S JS KH QC AD 5C KS 2C QS 8H 3D 4C JH KD AS 4D KC QH 2H 10C 5D 2D 9H 4H 10D 7S 10S 3H 5S JC 7D QD 
+Hand 3
+8C 9S 9D 6D 6H AC 8D 7H JD 2S 5H 10H 3S 7C 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+3C
+
+Table 3
+8C
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+10S KC 4D 2H 9H QD JS JC 4H JH AH AD 8C QS KS 10C 8H 4C 3C 7S 6C KH 2C QC QH 5S 5C 3D AS 9C 4S 2D 3H 7D 5D KD 10D 6S 8S 
+Hand 3
+9S 9D 6D 6H AC 8D 7H JD 2S 5H 10H 3S 7C 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+10S
+
+Table 3
+9S
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+KC 4D 2H 9H QD JS JC 4H JH AH AD 8C QS KS 10C 8H 4C 3C 7S 6C KH 2C QC QH 5S 5C 3D AS 9C 4S 2D 3H 7D 5D KD 10D 6S 8S 
+Hand 3
+2S 3S 9S 7H 7C 10S 10H 6D 5H 6H 8D 9D JD AC 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+KC
+
+Table 3
+2S
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+4D 2H 9H QD JS JC 4H JH AH AD 8C QS KS 10C 8H 4C 3C 7S 6C KH 2C QC QH 5S 5C 3D AS 9C 4S 2D 3H 7D 5D KD 10D 6S 8S 
+Hand 3
+JD 3S 7H 6D AC 10H 9D 8D 10S KC 7C 6H 5H 9S 2S 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+4D
+
+Table 3
+JD
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+AS 9H 3D QD KH JC 6C AH 6S JH 10C 5C 8H 5D 8C QH QS 7D 3C QC 4D 10D 2H 4C 4H JD 3H 7S KD 2C 8S 2D AD 5S 9C JS 4S KS 
+Hand 3
+3S 7H 6D AC 10H 9D 8D 10S KC 7C 6H 5H 9S 2S 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+AS
+
+Table 3
+3S
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+9H KD 2C 4H 3D 5C AH 8C JD JC 7D QS AD 3C 4D QD JH KS JS KH 10D AS 7S QC QH 8S 3S 3H 5D 2D 6C 9C 4S 2H 5S 4C 8H 10C 6S 
+Hand 3
+7H 6D AC 10H 9D 8D 10S KC 7C 6H 5H 9S 2S 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+9H
+
+Table 3
+7H
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+KD 2C 4H 3D 5C AH 8C JD JC 7D QS AD 3C 4D QD JH KS JS KH 10D AS 7S QC QH 8S 3S 3H 5D 2D 6C 9C 4S 2H 5S 4C 8H 10C 6S 
+Hand 3
+AC KC 7H 10S 10H 9D 9S 8D 7C 6H 6D 5H 9H 2S 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+KD
+
+Table 3
+AC
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+2C 4H 3D 5C AH 8C JD JC 7D QS AD 3C 4D QD JH KS JS KH 10D AS 7S QC QH 8S 3S 3H 5D 2D 6C 9C 4S 2H 5S 4C 8H 10C 6S 
+Hand 3
+8D 9S 6D 2S 10S 6H 9H 9D KC 10H 7H 7C 5H KD AC 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+2C
+
+Table 3
+8D
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+4S AS 4C 3D QH JH 8D QS 10D QC QD AH 2C 8C 10C 5D 6S KS 9C 6C 5S 3S 5C KH 3C JS 7D 4D JC 3H 8H 2D 4H AD 2H 8S 7S JD 
+Hand 3
+9S 6D 2S 10S 6H 9H 9D KC 10H 7H 7C 5H KD AC 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+4S
+
+Table 3
+9S
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+5S 7D 4C QS 5D 10D 3S 6S KS 4H 7S AH 4D 9C QH 3D JC 8D 2H JS JH 2C 8S 5C AD QC AS 2D 10C 6C 9S KH QD JD 3C 4S 8C 8H 3H 
+Hand 3
+6D 2S 10S 6H 9H 9D KC 10H 7H 7C 5H KD AC 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+5S
+
+Table 3
+6D
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+6S 5D 6D JC 4S KH 4D 2D 7S 3C 5C 8C 3D 8H 10D 8D AH 7D 2H 8S 9C QH 4H 10C JS QD 2C JD AD JH 6C KS 4C 3S QS QC 3H 5S AS 9S 
+Hand 3
+2S 10S 6H 9H 9D KC 10H 7H 7C 5H KD AC 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+6S
+
+Table 3
+2S
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+5D 6D JC 4S KH 4D 2D 7S 3C 5C 8C 3D 8H 10D 8D AH 7D 2H 8S 9C QH 4H 10C JS QD 2C JD AD JH 6C KS 4C 3S QS QC 3H 5S AS 9S 
+Hand 3
+10H KC 6S 7C KD 7H 6H AC 2S 10S 9H 5H 9D 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+5D
+
+Table 3
+10H
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+QC 5S 6C 5C 6D 3C 9C 4D KH JD 10C JH 5D QD 4H AD 3H 4S 3D 2C 2D 10H 8S 8H JC 3S AS 9S 4C 8C JS 10D 7D 8D 7S 2H QH AH KS QS 
+Hand 3
+KC 6S 7C KD 7H 6H AC 2S 10S 9H 5H 9D 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+QC
+
+Table 3
+KC
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+JH 8S 2D QC AH 2C 5C QD JC KC 9S 6C 7D QH 4S JS 5D AD 4H JD 10D 10C 8D 3C KH 8C 5S 8H 4C AS 2H 10H 6D 4D 9C QS 3S 3H 3D KS 7S 
+Hand 3
+6S 7C KD 7H 6H AC 2S 10S 9H 5H 9D 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+JH
+
+Table 3
+6S
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+8S 2D QC AH 2C 5C QD JC KC 9S 6C 7D QH 4S JS 5D AD 4H JD 10D 10C 8D 3C KH 8C 5S 8H 4C AS 2H 10H 6D 4D 9C QS 3S 3H 3D KS 7S 
+Hand 3
+JH AC KD 7C 2S 5H 9H 7H 6S 10S 6H 9D 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+8S
+
+Table 3
+JH
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+KC 10D 10H 7S 7D 9S AH QH AD 9C 3C 5S QD 8S 8D QC JH 4D 2H AS JC 6D 3D 2C 3S 3H JS KS 4C 5C 10C 5D 4S 6C 4H QS 8C 2D KH JD 8H 
+Hand 3
+AC KD 7C 2S 5H 9H 7H 6S 10S 6H 9D 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+KC
+
+Table 3
+AC
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+10D 10H 7S 7D 9S AH QH AD 9C 3C 5S QD 8S 8D QC JH 4D 2H AS JC 6D 3D 2C 3S 3H JS KS 4C 5C 10C 5D 4S 6C 4H QS 8C 2D KH JD 8H 
+Hand 3
+10S 5H 7H AC 2S 9H 6S 9D KC KD 7C 6H 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+10D
+
+Table 3
+10S
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+10H 7S 7D 9S AH QH AD 9C 3C 5S QD 8S 8D QC JH 4D 2H AS JC 6D 3D 2C 3S 3H JS KS 4C 5C 10C 5D 4S 6C 4H QS 8C 2D KH JD 8H 
+Hand 3
+5H 7H AC 2S 9H 6S 9D KC KD 7C 6H 
+Hand 4
+
+
+
+Hand 1
+
+Hand 2
+3C 5C 10C 2C 3S AS 3D 9S AD 4S 8H 2D 4H 10S 7D 4D JS JD KH 5D 10D 8S JH QS 6D AH 10H QH 3H QC 5S KS QD 7S 2H 8D 9C JC 8C 4C 6C 
+Hand 3
+5H 7H AC 2S 9H 6S 9D KC KD 7C 6H 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+3C
+
+Table 3
+5H
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+7D JH KH 4C QC 3D AS AD AH 6D 8D 4D 10H 3H 5S 9S 7S 3C 2C 2D 5H 4S KS QS QH 6C JS 10S 10D 2H 5C 3S 8S 4H JD JC 8C QD 5D 10C 8H 9C 
+Hand 3
+7H AC 2S 9H 6S 9D KC KD 7C 6H 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+7D
+
+Table 3
+7H
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+JH KH 4C QC 3D AS AD AH 6D 8D 4D 10H 3H 5S 9S 7S 3C 2C 2D 5H 4S KS QS QH 6C JS 10S 10D 2H 5C 3S 8S 4H JD JC 8C QD 5D 10C 8H 9C 
+Hand 3
+AC 2S 9H 6S 9D KC KD 7C 6H 
+Hand 4
+
+
+
+Hand 1
+
+Hand 2
+3S 9C 5H 3C 3H 10C 7S JC KS 2H AS 5C 3D 4S 7H AH 4H 2C 6D 5S 7D QC 9S 4C 4D KH 8D 5D AD QS 8H JH 6C QD QH 10S 10H 8S 8C 2D JD JS 10D 
+Hand 3
+AC 2S 9H 6S 9D KC KD 7C 6H 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+3S
+
+Table 3
+AC
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+9C 5H 3C 3H 10C 7S JC KS 2H AS 5C 3D 4S 7H AH 4H 2C 6D 5S 7D QC 9S 4C 4D KH 8D 5D AD QS 8H JH 6C QD QH 10S 10H 8S 8C 2D JD JS 10D 
+Hand 3
+7C 9H AC 9D 6S 6H KD 3S KC 2S 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+9C
+
+Table 3
+7C
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+5H 3C 3H 10C 7S JC KS 2H AS 5C 3D 4S 7H AH 4H 2C 6D 5S 7D QC 9S 4C 4D KH 8D 5D AD QS 8H JH 6C QD QH 10S 10H 8S 8C 2D JD JS 10D 
+Hand 3
+9H 7C AC 2S KD KC 6H 9D 9C 6S 3S 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+5H
+
+Table 3
+9H
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+5S QS 7S 5H AS 6C 9S JS 3D KS 4C 5D 6D 2H AD 3H 10D 10C 7H KH JD 8D 4S QC 8C 10H QH 8S 3C 7D 8H QD AH JC 4H 9H 2D 2C 10S 4D 5C JH 
+Hand 3
+7C AC 2S KD KC 6H 9D 9C 6S 3S 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+5S
+
+Table 3
+7C
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+9S 3H JH 5C JC QC QS 4C 2H QH 7H 5D JS 7D 2C KH 10H 4S 8S KS 3D AS 6D 4H AD QD 6C 5S 10D AH 8D 5H 4D 2D 9H JD 3C 7C 10C 7S 8H 8C 10S 
+Hand 3
+AC 2S KD KC 6H 9D 9C 6S 3S 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+9S
+
+Table 3
+AC
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+3H JH 5C JC QC QS 4C 2H QH 7H 5D JS 7D 2C KH 10H 4S 8S KS 3D AS 6D 4H AD QD 6C 5S 10D AH 8D 5H 4D 2D 9H JD 3C 7C 10C 7S 8H 8C 10S 
+Hand 3
+2S KC 6S 9S KD 3S AC 6H 9C 9D 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+3H
+
+Table 3
+2S
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+JH 5C JC QC QS 4C 2H QH 7H 5D JS 7D 2C KH 10H 4S 8S KS 3D AS 6D 4H AD QD 6C 5S 10D AH 8D 5H 4D 2D 9H JD 3C 7C 10C 7S 8H 8C 10S 
+Hand 3
+9C KD 6S KC AC 3H 9D 6H 3S 9S 2S 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+JH
+
+Table 3
+9C
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+5C JC QC QS 4C 2H QH 7H 5D JS 7D 2C KH 10H 4S 8S KS 3D AS 6D 4H AD QD 6C 5S 10D AH 8D 5H 4D 2D 9H JD 3C 7C 10C 7S 8H 8C 10S 
+Hand 3
+JH 6S AC 9S 3S KC 6H KD 9D 9C 2S 3H 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+5C
+
+Table 3
+JH
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+2H 2D 6D 5C 9H 10H 2C 5D AH 3C 3D 7S 8S 10S AS 4S 4D KH 4H QD KS 5H 8C JH 10D JS 5S JC 6C JD 7D AD QH 10C 7H 7C QS 8H QC 8D 4C 
+Hand 3
+6S AC 9S 3S KC 6H KD 9D 9C 2S 3H 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+2H
+
+Table 3
+6S
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+KS 7S 10D 8S 2H 8H 5C JH 5S 10H QH AS 3C 6C 6S 6D JD 3D JC 5D 4H QS AD 7C QC 8D QD 9H 10S 7H 5H 8C 7D 4S JS 2D 10C KH 4C 4D 2C AH 
+Hand 3
+AC 9S 3S KC 6H KD 9D 9C 2S 3H 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+KS
+
+Table 3
+AC
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+7S 10D 8S 2H 8H 5C JH 5S 10H QH AS 3C 6C 6S 6D JD 3D JC 5D 4H QS AD 7C QC 8D QD 9H 10S 7H 5H 8C 7D 4S JS 2D 10C KH 4C 4D 2C AH 
+Hand 3
+9C KS 6H 9D KC AC 3S 2S 9S KD 3H 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+7S
+
+Table 3
+9C
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+2C 7D 3D 10S 7C 2H 5D 4D 6D 4H 8D 8H 5C JC 6S QD 9H 9C JD QH AH 10C 7S 5H 8C KH 10H AS JS 4C 2D 5S 3C 10D QC AD QS JH 6C 4S 7H 8S 
+Hand 3
+KS 6H 9D KC AC 3S 2S 9S KD 3H 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+2C
+
+Table 3
+KS
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+2D 5S 6D 6C JH 8D 10D AH QS 10S 10C 3C 8C 8S 4H 4S 7D 4D KS QC 8H 10H AD AS 2H 7H JD 5C QD JS JC 5H 5D 6S 9C 4C 7C 3D QH 7S KH 2C 9H 
+Hand 3
+6H 9D KC AC 3S 2S 9S KD 3H 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+2D
+
+Table 3
+6H
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+AH KS 3D 3C 4C QS 2C QC 2D 9C 10C 2H AS 6D 6S 5D 5S JS 7D 9H 10H QD AD KH 10D 5C JH 6H 10S 4S 6C 8S 7C 7S 8D JC 8H 4H JD 5H 8C 4D QH 7H 
+Hand 3
+9D KC AC 3S 2S 9S KD 3H 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+AH
+
+Table 3
+9D
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+JS 4D 3C AS KS 5H 8S 8C 4H JH QC JD 9H 5S 6C 7S 2D 10D QS 9D QH KH 2C 7C 5D 4C 10S 3D QD 8H 2H 7D 6D 5C AH 6H 9C 8D AD 7H JC 4S 10C 10H 6S 
+Hand 3
+KC AC 3S 2S 9S KD 3H 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+JS
+
+Table 3
+KC
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+KS AH 2C 7H 5H 6C QS JC AS 7D JD JH KC 8C 6D 6S 4D 10S 9D 5D 10C JS 6H KH 9C QH 8H 2D 8D 7S 3C 4C 5C 3D AD 10H 7C 4H QC 2H QD 5S 10D 8S 4S 9H 
+Hand 3
+AC 3S 2S 9S KD 3H 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+KS
+
+Table 3
+AC
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+AH 2C 7H 5H 6C QS JC AS 7D JD JH KC 8C 6D 6S 4D 10S 9D 5D 10C JS 6H KH 9C QH 8H 2D 8D 7S 3C 4C 5C 3D AD 10H 7C 4H QC 2H QD 5S 10D 8S 4S 9H 
+Hand 3
+9S 3S KD KS AC 2S 3H 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+AH
+
+Table 3
+9S
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+7C KC 10S KH 2D AH 9S 2C 4S 3C 5C 7D JH 6S 5H 9C 5S 8D 7H 8C 4C QH 9H 6H 10H AS 9D JS 3D 6D QC 4H 6C 8S 7S JC 2H QS 5D 4D 10D JD QD AD 10C 8H 
+Hand 3
+3S KD KS AC 2S 3H 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+7C
+
+Table 3
+3S
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+KC 10S KH 2D AH 9S 2C 4S 3C 5C 7D JH 6S 5H 9C 5S 8D 7H 8C 4C QH 9H 6H 10H AS 9D JS 3D 6D QC 4H 6C 8S 7S JC 2H QS 5D 4D 10D JD QD AD 10C 8H 
+Hand 3
+7C 3H KS 2S AC KD 3S 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+KC
+
+Table 3
+7C
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+10S KH 2D AH 9S 2C 4S 3C 5C 7D JH 6S 5H 9C 5S 8D 7H 8C 4C QH 9H 6H 10H AS 9D JS 3D 6D QC 4H 6C 8S 7S JC 2H QS 5D 4D 10D JD QD AD 10C 8H 
+Hand 3
+KS 7C KC 3H AC 3S 2S KD 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+10S
+
+Table 3
+KS
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+5C 8H 3C 9D 6D 8S 10D 8C 9S 4H 2H 4C QC AS AD 5D 10H 2D 7H 6H KS 5S QD JS QH JD 10C 7S 7D 9H 5H 4D 9C KH AH JC 2C QS 4S 10S 8D 6S JH 6C 3D 
+Hand 3
+7C KC 3H AC 3S 2S KD 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+5C
+
+Table 3
+7C
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+3D 2D KH 5D 5S 2C QD 7S 6H 9D AS AH 2H 5H 5C KS QC 6D 7H 4S 9H 7C 10H 4C 9C 8D JD 4H 10C 6C 10S QS 8C 4D AD 6S 8S 10D JS QH 9S JC 3C JH 8H 7D 
+Hand 3
+KC 3H AC 3S 2S KD 
+Hand 4
+
+
+
+Table 1
+  
+Table 2
+3D
+
+Table 3
+KC
+
+Table 4
+  
+
+
+Hand 1
+
+Hand 2
+AS 10H 5H 8C JD 2D 4H 9H 2C 4S 6C 4C QC 7C 3D 8H AH 5C 9D 5D KS 8S 3C KH JS 8D 7H KC QH 6S JH 5S 10S AD 7D QD 4D JC 10C QS 10D 9S 9C 7S 6H 2H 6D 
+Hand 3
+3H AC 3S 2S KD 
+Hand 4
+
+
+
+Game Over!!  The winner is player 2
+
+Final Hand 1
+
+Final Hand 2
+AS 10H 5H 8C JD 2D 4H 9H 2C 4S 6C 4C QC 7C 3D 8H AH 5C 9D 5D KS 8S 3C KH JS 8D 7H KC QH 6S JH 5S 10S AD 7D QD 4D JC 10C QS 10D 9S 9C 7S 6H 2H 6D 3H AC 3S 2S KD 
+Final Hand 3
+
+Final Hand 4
+
+
+
